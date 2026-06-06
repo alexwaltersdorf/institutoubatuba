@@ -57,8 +57,39 @@ const programasDestaque = [
   },
 ];
 
+const postsDestaque = [
+  {
+    id: 1,
+    slug: "instituto-ubatuba-realiza-capacitacao-com-parceiros-em-dezembro-2025",
+    title: "Instituto Ubatuba realiza grande capacitação com parceiros em dezembro de 2025",
+    excerpt: "O Instituto Ubatuba reuniu sua equipe e parceiros estratégicos em um evento de capacitação realizado em dezembro de 2025, reforçando o compromisso com a transparência e a governança.",
+    coverImage: "/manus-storage/ig_foto3_24660931.jpg",
+    category: "Institucional",
+    publishedAt: new Date("2025-12-10"),
+  },
+  {
+    id: 2,
+    slug: "capacitacao-em-saude-fortalece-parceria-com-o-sus",
+    title: "Capacitação em saúde fortalece parceria do instituto com o SUS",
+    excerpt: "O Instituto Ubatuba participou de capacitação sobre certificação de entidades de saúde. A parceria com a Total Quality já realizou 781 exames gratuitos para a comunidade.",
+    coverImage: "/manus-storage/ig_foto1_2593cca7.jpg",
+    category: "Saúde",
+    publishedAt: new Date("2025-09-20"),
+  },
+  {
+    id: 3,
+    slug: "escolinhas-esportivas-atingem-360-criancas-atendidas",
+    title: "Escolinhas esportivas atingem 360 crianças atendidas em Ubatuba",
+    excerpt: "As escolinhas de surfe (160), futebol (120) e futevôlei (80) alcançaram a marca de 360 crianças atendidas, consolidando o programa como referência em inclusão social.",
+    coverImage: "/manus-storage/ubatuba-praia_8ed0b366.jpg",
+    category: "Programas",
+    publishedAt: new Date("2025-07-10"),
+  },
+];
+
 export default function Home() {
-  const { data: posts } = trpc.posts.list.useQuery({ limit: 3, offset: 0 });
+  const { data: postsDB } = trpc.posts.list.useQuery({ limit: 3, offset: 0 });
+  const posts = postsDB && postsDB.length > 0 ? postsDB : postsDestaque;
 
   return (
     <div className="overflow-x-hidden">
@@ -269,9 +300,8 @@ export default function Home() {
             </Link>
           </div>
 
-          {posts && posts.length > 0 ? (
-            <div className="grid md:grid-cols-3 gap-8">
-              {posts.map((post) => (
+          <div className="grid md:grid-cols-3 gap-8">
+              {posts.map((post: { id: number; slug: string; title: string; excerpt?: string | null; coverImage?: string | null; category?: string | null }) => (
                 <Link key={post.id} href={`/noticias/${post.slug}`} className="card-elegant overflow-hidden group block">
                   {post.coverImage && (
                     <div className="h-48 overflow-hidden">
@@ -299,13 +329,6 @@ export default function Home() {
                 </Link>
               ))}
             </div>
-          ) : (
-            <div className="text-center py-16 text-muted-foreground">
-              <BookOpen className="w-12 h-12 mx-auto mb-4 opacity-30" />
-              <p className="text-lg font-serif">Em breve, novidades do instituto</p>
-              <p className="text-sm mt-2">Acompanhe nossas ações e conquistas</p>
-            </div>
-          )}
 
           <div className="text-center mt-10 md:hidden">
             <Link href="/noticias" className="btn-outline">

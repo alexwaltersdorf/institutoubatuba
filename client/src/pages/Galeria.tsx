@@ -5,53 +5,67 @@ import { cn } from "@/lib/utils";
 
 const HERO_IMAGE = "/manus-storage/ubatuba-natureza_083c332c.png";
 
-// Galeria estática de demonstração (substituída por dados do banco quando disponíveis)
+// Galeria com fotos reais do instituto (Instagram e Facebook)
 const galeriaDemo = [
   {
     id: 1,
-    imageUrl: "/manus-storage/ubatuba-hero_110ea313.jpg",
-    title: "Vista Aérea de Ubatuba",
-    category: "Natureza",
-    description: "Beleza natural do litoral norte paulista",
+    imageUrl: "/manus-storage/ig_foto3_24660931.jpg",
+    title: "Capacitação com Parceiros",
+    category: "Eventos",
+    description: "Equipe do Instituto Ubatuba reunida com parceiros em evento de capacitação — Dezembro 2025",
   },
   {
     id: 2,
-    imageUrl: "/manus-storage/ubatuba-praia_8ed0b366.jpg",
-    title: "Praia de Ubatuba",
-    category: "Natureza",
-    description: "Praias preservadas de Ubatuba",
+    imageUrl: "/manus-storage/ig_foto2_d635a26f.jpg",
+    title: "Transparência em Ação",
+    category: "Eventos",
+    description: "Apresentação sobre transparência e governança do instituto para parceiros e colaboradores",
   },
   {
     id: 3,
-    imageUrl: "/manus-storage/ubatuba-natureza_083c332c.png",
-    title: "Mata Atlântica",
-    category: "Conservação",
-    description: "Exuberância da Mata Atlântica em Ubatuba",
+    imageUrl: "/manus-storage/ig_foto1_2593cca7.jpg",
+    title: "Certificação de Saúde",
+    category: "Saúde",
+    description: "Capacitação sobre certificação de entidades de saúde e parceria com o SUS",
   },
   {
     id: 4,
-    imageUrl: "/manus-storage/santuario-mata_c008072f.jpg",
-    title: "Santuário Ecológico",
-    category: "Santuário",
-    description: "O santuário ecológico do instituto",
+    imageUrl: "/manus-storage/ig_foto4_6643d6c8.jpg",
+    title: "Ações de Saúde",
+    category: "Saúde",
+    description: "Projeto de saúde comunitária com 781 exames e consultas realizados",
   },
   {
     id: 5,
-    imageUrl: "/manus-storage/ubatuba-hero_110ea313.jpg",
-    title: "Litoral Norte",
-    category: "Natureza",
-    description: "Paisagem do litoral norte de São Paulo",
+    imageUrl: "/manus-storage/ig_foto5_aaa5e221.jpg",
+    title: "Reconhecimento Oficial",
+    category: "Institucional",
+    description: "Publicação no Diário Oficial da União — reconhecimento das ações do Instituto Ubatuba",
   },
   {
     id: 6,
+    imageUrl: "/manus-storage/ubatuba-hero_110ea313.jpg",
+    title: "Litoral de Ubatuba",
+    category: "Natureza",
+    description: "Beleza natural do litoral norte paulista, lar do Instituto Ubatuba Santuário Ecológico",
+  },
+  {
+    id: 7,
     imageUrl: "/manus-storage/ubatuba-praia_8ed0b366.jpg",
-    title: "Atividades na Praia",
+    title: "Escolinha de Surfe",
     category: "Programas",
-    description: "Escolinha de surfe em ação",
+    description: "160 crianças atendidas pela Escolinha de Surfe Social do instituto",
+  },
+  {
+    id: 8,
+    imageUrl: "/manus-storage/ubatuba-natureza_083c332c.png",
+    title: "Mata Atlântica",
+    category: "Natureza",
+    description: "Conservação da Mata Atlântica — um dos biomas mais ameaçados do planeta",
   },
 ];
 
-const categorias = ["Todos", "Natureza", "Conservação", "Santuário", "Programas"];
+const categorias = ["Todos", "Eventos", "Saúde", "Institucional", "Natureza", "Programas"];
 
 export default function Galeria() {
   const [categoriaAtiva, setCategoriaAtiva] = useState("Todos");

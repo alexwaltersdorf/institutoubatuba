@@ -25,15 +25,15 @@ export default function Footer() {
             </p>
             {/* Redes sociais */}
             <div className="flex items-center gap-3">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.instagram.com/instituto.ubatuba" target="_blank" rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 hover:border-white/40 transition-all">
                 <Instagram className="w-4 h-4" />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.facebook.com/institutoubatuba" target="_blank" rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 hover:border-white/40 transition-all">
                 <Facebook className="w-4 h-4" />
               </a>
-              <a href="https://youtube.com" target="_blank" rel="noopener noreferrer"
+              <a href="https://www.facebook.com/institutoubatuba/reels_tab" target="_blank" rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full border border-white/20 flex items-center justify-center hover:bg-white/10 hover:border-white/40 transition-all">
                 <Youtube className="w-4 h-4" />
               </a>
