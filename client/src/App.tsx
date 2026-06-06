@@ -4,32 +4,47 @@ import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
+import Sobre from "./pages/Sobre";
+import Programas from "./pages/Programas";
+import Galeria from "./pages/Galeria";
+import Apoie from "./pages/Apoie";
+import Contato from "./pages/Contato";
+import Noticias from "./pages/Noticias";
+import NoticiaDetalhe from "./pages/NoticiaDetalhe";
+
+function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <div className="min-h-screen flex flex-col">
+      <Header />
+      <main className="flex-1">{children}</main>
+      <Footer />
+    </div>
+  );
+}
 
 function Router() {
-  // make sure to consider if you need authentication for certain routes
   return (
     <Switch>
-      <Route path={"/"} component={Home} />
-      <Route path={"/404"} component={NotFound} />
-      {/* Final fallback route */}
+      <Route path="/" component={() => <Layout><Home /></Layout>} />
+      <Route path="/sobre" component={() => <Layout><Sobre /></Layout>} />
+      <Route path="/programas" component={() => <Layout><Programas /></Layout>} />
+      <Route path="/galeria" component={() => <Layout><Galeria /></Layout>} />
+      <Route path="/apoie" component={() => <Layout><Apoie /></Layout>} />
+      <Route path="/contato" component={() => <Layout><Contato /></Layout>} />
+      <Route path="/noticias" component={() => <Layout><Noticias /></Layout>} />
+      <Route path="/noticias/:slug" component={({ params }) => <Layout><NoticiaDetalhe slug={params.slug} /></Layout>} />
       <Route component={NotFound} />
     </Switch>
   );
 }
 
-// NOTE: About Theme
-// - First choose a default theme according to your design style (dark or light bg), than change color palette in index.css
-//   to keep consistent foreground/background color across components
-// - If you want to make theme switchable, pass `switchable` ThemeProvider and use `useTheme` hook
-
 function App() {
   return (
     <ErrorBoundary>
-      <ThemeProvider
-        defaultTheme="light"
-        // switchable
-      >
+      <ThemeProvider defaultTheme="light">
         <TooltipProvider>
           <Toaster />
           <Router />
