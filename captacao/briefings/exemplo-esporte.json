@@ -1,0 +1,18 @@
+{
+  "lei": "esporte",
+  "titulo": "Esporte que Educa: Núcleos de Formação Esportiva em Ubatuba",
+  "area": "esporte educacional (formação)",
+  "resumo": "Núcleos de formação esportiva em futsal, natação e atletismo para crianças e adolescentes matriculados na rede pública, com foco em inclusão social, cidadania, permanência escolar e promoção da saúde no litoral norte de SP.",
+  "publico": "crianças e adolescentes de 7 a 15 anos da rede pública de ensino",
+  "cidade": "Ubatuba/SP",
+  "valorEstimado": 300000,
+  "nRefs": 4,
+  "proponente": {
+    "nome": "Instituto Ubatuba",
+    "cnpj": "«CNPJ do proponente»",
+    "natureza": "Organização da sociedade civil (OSC) sem fins lucrativos — saúde e educação",
+    "cidade": "Ubatuba",
+    "uf": "SP",
+    "responsavelLegal": "«Nome do Responsável Legal»"
+  }
+}
