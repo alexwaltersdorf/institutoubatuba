@@ -2,7 +2,7 @@
 
 > **Plataforma:** Lei de Incentivo ao Esporte (LIE / SLI + SEI)
 > **Área/nível:** esporte educacional (formação) · **Local:** Ubatuba/SP · **Valor estimado:** R$ 300.000,00
-> **Gerado em:** 2026-07-22T18:26:47.916Z
+> **Gerado em:** 2026-07-23T01:44:28.111Z
 >
 > ⚠️ **Minuta de trabalho.** Textos entre «...» exigem preenchimento pelo proponente. Itens [VERIFICAR] dependem de confirmação em fonte oficial (ver docs/normativos/).
 

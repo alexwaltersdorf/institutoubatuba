@@ -2,7 +2,7 @@
 
 > **Plataforma:** Lei de Incentivo à Cultura (Rouanet / SALIC)
 > **Área/nível:** Audiovisual · **Local:** Ubatuba/SP · **Valor estimado:** R$ 400.000,00
-> **Gerado em:** 2026-07-22T18:26:46.758Z
+> **Gerado em:** 2026-07-23T01:44:26.988Z
 >
 > ⚠️ **Minuta de trabalho.** Textos entre «...» exigem preenchimento pelo proponente. Itens [VERIFICAR] dependem de confirmação em fonte oficial (ver docs/normativos/).
 
@@ -121,10 +121,10 @@ _Compatibilize cada item com valores praticados (referência: Salic Comparar —
 
 ## 14. Referências (projetos aprovados similares)
 
-- **VIDA URGENTE** [Audiovisual] (265230) — aprovado: R$ 899.992,49 — PORAO PRODUCOES LTDA
-- **GRILO — A história de Leandro Dora, o Legado de um Treinador** [Audiovisual] (265228) — aprovado: R$ 560.929,05 — APRIMORESURF LTDA
-- **Mulherial de Dança** [Audiovisual] (265226) — aprovado: R$ 593.486,25 — AGUA DE LEVANTE PRODUCOES LTDA
-- **ENCONTRO DE CINEMA NEGRO ZÓZIMO BULBUL BRASIL, ÁFRICA, CARIBE E OUTRAS DIÁSPORAS - 19 ANOS** [Audiovisual] (265227) — aprovado: R$ 592.812,00 — CENTRO AFRO CARIOCA DE CINEMA
+- **O Meio é o Ambiente - Águas de Piri** [Audiovisual] (265202) — aprovado: R$ 328.627,53 — CASA DE PRODUCAO AUDIOVISUAL DIGITAL LTDA
+- **O Rio que Fala** [Audiovisual] (265199) — aprovado: R$ 801.182,82 — CONTEUDOS DIVERSOS PRODUCOES LTDA.
+- **Entre a Pista e o Mundo: Corpo, Velocidade e Paixão** [Audiovisual] (264686) — aprovado: R$ 349.945,77 — CUT N TOUCH FILMES LTDA
+- **Inside Out Brasil — Websérie Documental Sobre a Cultura do Tênis** [Audiovisual] (265208) — aprovado: R$ 794.475,00 — GRATTITUDE FILMS PRODUCTIONS LTDA
 
 ## Vedações a observar
 
