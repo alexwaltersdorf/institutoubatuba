@@ -1,0 +1,2688 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL DO PROPONENTE 
+MÓDULO 1 -Apresentação de Propostas e Adequação à Realidade 
+ 
+INCENTIVO FISCAL  
+A PROJETOS CULTURAIS 
+ 
+Secretaria de Economia Criativa e Fomento Cultural 
+ 
+Orientações de como preencher e 
+submeter a sua proposta cultural e 
+adequar seu projeto já aprovado à 
+realidade de execução referente ao 
+mecanismo de incentivo fiscal da Lei 
+8313/91 (Lei Rouanet), que institui o 
+Programa Nacional de Apoio à Cultura 
+(Pronac).       
+ 
+ 
+ 
+
+ 
+2 
+ 
+Sumário 
+ 
+Sumário ........................................................................................................................................................... 2 
+APRESENTAÇÃO ............................................................................................................................................... 4 
+SOBRE O PRONAC ............................................................................................................................................ 5 
+CADASTRANDO USUÁRIO/PROPONENTE .......................................................................................................... 6 
+Cadastrando um portfólio .............................................................................................................................. 11 
+APRESENTANDO UMA PROPOSTA .................................................................................................................. 12 
+CADASTRANDO A PROPOSTA ......................................................................................................................... 14 
+1- Nome da Proposta Cultural ......................................................................................................................... 14 
+2- Tipicidade e seus Limites Orçamentários e Tipologias. ................................................................................. 14 
+3- Informações Complementares .................................................................................................................... 20 
+4- Período de Realização ................................................................................................................................ 21 
+5- No caso de bem tombado ........................................................................................................................... 23 
+6- Resumo da Proposta Cultural ..................................................................................................................... 23 
+7- Objetivos ................................................................................................................................................... 24 
+8- Justificativa ................................................................................................................................................ 25 
+PREENCHENDO SUA PROPOSTA ...................................................................................................................... 27 
+1. 
+Menu Informações Iniciais: ..................................................................................................................... 27 
+Identificação da proposta ............................................................................................................................... 27 
+Responsabilidade Social ................................................................................................................................. 28 
+ACESSIBILIDADE ............................................................................................................................................. 28 
+DEMOCRATIZAÇÃO DE ACESSO ...................................................................................................................... 31 
+Detalhes técnicos ........................................................................................................................................... 32 
+ETAPAS DE TRABALHO ................................................................................................................................... 32 
+FICHA TÉCNICA .............................................................................................................................................. 33 
+SINOPSE DA OBRA ......................................................................................................................................... 33 
+ESPECIFICAÇÕES TÉCNICAS DO PRODUTO ....................................................................................................... 34 
+DESCRIÇÃO DA ATIVIDADE DO PRODUTO ....................................................................................................... 35 
+Outras Informações ....................................................................................................................................... 36 
+OUTRAS INFORMAÇÕES ................................................................................................................................. 36 
+2. 
+Local de Realização: ................................................................................................................................ 37 
+3. 
+Plano de Distribuição: ............................................................................................................................. 37 
+4. 
+Orçamento do projeto: ........................................................................................................................... 41 
+Custos Vinculados .......................................................................................................................................... 41 
+Custos por produtos ....................................................................................................................................... 42 
+Visualizar planilha .......................................................................................................................................... 45 
+5. 
+Itens Orçamentários: .............................................................................................................................. 46 
+
+ 
+3 
+ 
+Solicitar inclusão de itens ............................................................................................................................... 46 
+Minhas Solicitações (do menu itens orçamentários) ........................................................................................ 47 
+6. 
+Anexar Documentos: .............................................................................................................................. 48 
+7. 
+Gerar PDF ............................................................................................................................................... 49 
+8. 
+Diligências .............................................................................................................................................. 49 
+9. 
+Minhas Solicitações ................................................................................................................................ 50 
+10. 
+Excluir Proposta .................................................................................................................................. 51 
+11. 
+Enviar proposta ao MinC ..................................................................................................................... 52 
+ANÁLISE E ENQUADRAMENTO........................................................................................................................ 53 
+RECURSOS NA FASE DE PROPOSTA ................................................................................................................. 53 
+Pedido de desarquivamento ........................................................................................................................... 53 
+Recurso de enquadramento ........................................................................................................................... 54 
+CONCLUSÃO DA FASE DE PROPOSTA .............................................................................................................. 55 
+ADEQUAÇÃO À REALIDADE DE EXECUÇÃO DO PROJETO .................................................................................. 56 
+Orientações gerais sobre adequação à realidade de execução ......................................................................... 56 
+Passo a passo para realizar a Adequação do seu projeto ................................................................................. 58 
+ANÁLISE TÉCNICA (PARECERISTA E CNIC) ........................................................................................................ 62 
+Após análise técnica e Apreciação da CNIC ...................................................................................................... 63 
+VERIFICAÇÃO DOCUMENTAL .......................................................................................................................... 63 
+Prorrogação de prazo de execução antes da homologação da execução: ......................................................... 63 
+FASE RECURSAL.............................................................................................................................................. 63 
+CONCLUSÃO DA FASE DE HOMOLOGAÇÃO DE EXECUÇÃO ............................................................................... 65 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+4 
+ 
+ 
+APRESENTAÇÃO 
+ 
+ 
+Parceiros e parceiras proponentes, 
+  
+O Incentivo a Projetos Culturais, um dos mecanismos da Lei Federal de Incentivo à Cultura, a Lei Rouanet, 
+vem passando por várias atualizações desde janeiro de 2023, quando iniciamos a reconstrução do nosso 
+Ministério da Cultura e a retomada do Programa Nacional de Apoio à Cultura, o PRONAC. 
+ 
+Desde então, estamos buscando, incansavelmente, uma maior aderência das regras à dinâmica da produção 
+cultural brasileira. 
+  
+Este manual é um dos resultado desse trabalho e dos diálogos permanentes que estamos mantendo com 
+agentes culturais de todos os estados brasileiros. 
+ 
+Queremos oferecer mais e melhores informações sobre a apresentação de novos projetos, que viabilizem 
+também o acesso aos novos proponentes que ainda não acessaram a mais importante ferramenta de 
+financiamento da cultura do Brasil. 
+  
+Estamos desenvolvendo novas metodologias de análises e acompanhamento, mais simples, mais rápidas e, 
+ao mesmo tempo, com maior segurança processual e jurídica.  
+ 
+O sistema SALIC está passando por ajustes e avanços, com novas funcionalidades que facilitam os processos 
+de apresentação, aprovação e execução dos projetos culturais. 
+  
+Torcemos pelo sucesso de seus projetos. 
+  
+Diretoria de Fomento Indireto 
+Secretaria de Economia Criativa e Fomento Cultural 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+ 
+ 
+SOBRE O PRONAC 
+ 
+ 
+O Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei n° 8.313, de 23 de dezembro de 
+1991, foi criado com o objetivo de direcionar recursos para o desenvolvimento do setor cultural. 
+ 
+O PRONAC se propõe a facilitar o acesso às fontes de cultura, a promover a regionalização da produção 
+cultural brasileira, a proteger as expressões culturais dos grupos formadores da sociedade brasileira e do 
+pluralismo nacional, salvaguardar a sobrevivência e o florescimento dos modos de criar, fazer e viver da 
+população, preservar o patrimônio cultural material e imaterial e, principalmente, estimular a produção e a 
+difusão dos bens e serviços culturais.  
+ 
+O mecanismo Incentivo a Projetos Culturais (Incentivo Fiscal Federal) concede a pessoas físicas ou jurídicas 
+tributadas com base no lucro real, a opção pela aplicação de parcelas do imposto sobre renda em propostas 
+culturais previamente aprovadas pelo Ministério da Cultura (MinC). Os incentivadores que apoiarem o 
+projeto poderão ter o total ou parte do valor desembolsado deduzido do imposto devido, dentro dos 
+percentuais permitidos pela legislação tributária, quais sejam, até 4% do imposto devido para pessoas 
+jurídicas e até 6% do imposto devido pessoas físicas. 
+ 
+Nesse mecanismo, o proponente, ao obter a aprovação do projeto cultural, deverá captar junto a pessoas 
+físicas e jurídicas, contribuintes do imposto de  renda, os recursos necessários à execução do seu projeto. 
+ 
+Os proponentes que desejam submeter seus projetos ao Ministério da Cultura, buscando aprovação para uso 
+dos benefícios fiscais permitidos pela Lei Rouanet, devem utilizar o Sistema de Apoio às Leis de Incentivo à 
+Cultura (SALIC). Mas antes de iniciar o cadastramento do projeto no Salic, é imprescindível o conhecimento 
+dos normativos que regem o mecanismo: a Lei nº 8.313, de 23 de dezembro de 1991, o Decreto nº 11.453, de 
+23 de março de 2023 e a Instrução Normativa MinC nº 23, de 05 de fevereiro de 2025. A leitura atenta desses 
+documentos facilitará o entendimento das regras que envolvem o mecanismo de financiamento e, 
+consequentemente, trará mais facilidade ao proponente na definição do escopo de sua proposta, em especial 
+definindo O QUE, PORQUE, COMO, ONDE, QUANDO e PARA QUEM serão realizadas as ações culturais a 
+serem financiadas. A proposta deve estar fundamentada nas normas e a sua análise será feita a partir das 
+informações apresentadas. 
+ 
+Esse Manual tem a função de orientar o proponente a preencher corretamente sua proposta e a adequar seu 
+projeto à realidade de execução. 
+ 
+Posteriormente à leitura do manual, caso persistam quaisquer dúvidas sobre o preenchimento da proposta 
+ou sobre como adequar seu projeto à realidade de execução, a equipe do Ministério da Cultura estará à 
+disposição por meio dos seguintes canais: 
+ 
+➢ Solicitações no Salic - Este canal institucional promove o devido registro das comunicações entre 
+proponentes e o Ministério da Cultura, o que resulta na maior segurança para o proponente em 
+situações futuras de execução e prestação de contas. 
+➢ Admissibilidade/Homologações/Monitoramento e Execução telefones: (61) 2024-2082/ 2024-2147 
+/ 2024-2163 / 2024-2126 / 2024-2359 / 2024-2040 /2024-2042 / 2024-2124 / 2024-2249 / 2024-
+2106 e 2024-2077.  
+➢ Questões técnicas do SALIC, como senhas e operacionalização do sistema: (61) 2024-2128 ou pelo 
+e-mail: salic@cultura.gov.br 
+➢ Secretaria do Audiovisual (SAV): 
+➢ Telefones: (61) 2024-2940/ 2024-2770/ 2024-2295 
+➢ Admissibilidade/Homologações de projetos de audiovisual: coaap.sav@cultura.gov.br  
+
+ 
+6 
+ 
+➢ Monitoramento e Execução: wallace.santos@cultura.gov.br  
+ 
+CADASTRANDO USUÁRIO/PROPONENTE 
+ 
+1º Acesse o Sistema de Apoio às Leis de Incentivo à Cultura – Salic, no seguinte endereço: https://salic.cultura.gov.br  
+ 
+2º Cadastre-se como usuário do Salic: 
+ 
+  
+Obs.: Se já é cadastrado no Salic, digite seu login e senha e vá direto ao 6º passo. 
+ 
+3º Preencha os dados solicitados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+7 
+ 
+Obs.: Atenção para o correto preenchimento do e-mail de cadastro, visto que a senha de acesso será encaminhada 
+para esse e-mail. 
+ 
+4º Volte à tela de início e digite o CPF e a senha recebida por e-mail nos campos corretos: 
+ 
+ 
+ 
+ 
+5º Pronto, você já é usuário do Salic e terá acesso a essa tela: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+8 
+ 
+ 
+ 
+6º Agora você precisa cadastrar o PROPONENTE, no menu Administrativo > Cadastrar Proponente. 
+ 
+ 
+ 
+ 
+ 
+Obs.: Se já possui proponente cadastrado, vá direto ao 11º passo. 
+ 
+7º Preencha todos os dados com atenção e salve. 
+ 
+ 
+ 
+Obs.:  Após cadastrar o proponente, caso precise alterar endereço, e-mails, telefones, visão do proponente, insira 
+o CPF ou CNPJ do proponente no menu Administrativo > Cadastrar Proponente, digite o número do CPF ou CNPJ e 
+aperte a tecla TAB. Os dados já vão aparecer preenchidos e para alterar clique nas opções do menu lateral esquerdo. 
+
+ 
+9 
+ 
+ 
+ 
+ATENÇÃO: Importante manter atualizado o seu cadastro de proponente e inserir as Informações adicionais como 
+raça, estado civil, nome do pai e nome da mãe, que é importante para resgatar senha, por exemplo. 
+ 
+8º Caso seja um proponente pessoa jurídica (CNPJ) deve-se cadastrar, nesse momento, pelo menos um dirigente 
+(Administrador da empresa ou presidente da instituição) no menu lateral esquerdo: 
+ 
+ 
+Atenção: Somente o próprio proponente, quando pessoa física, ou o Dirigente da Instituição, quando pessoa 
+jurídica, poderá alterar os dados de cadastro do proponente e incluir ou excluir Dirigentes. 
+ 
+Obs.: Caso o proponente não tenha cadastrado o dirigente ou apareça a mensagem “Não possui permissão para 
+editar este agente!”,  deve-se solicitar ao MinC por meio do e-mail salic@cultura.gov.br a atualização de dirigente, 
+
+ 
+10 
+ 
+enviando em anexo a documentação comprobatória da titularidade (Requerimento de empresário, Contrato Social 
+ou Ata de Eleição, juntamente com o RG e CPF do Administrador ou Dirigente). 
+ 
+9º Caso você não seja o dirigente de uma Instituição e deseja apresentar proposta em nome de outro proponente, 
+deve-se solicitar vínculo, clicando no menu “Proposta” > “Listar” e clicar no botão “NOVO PROPONENTE”. 
+ 
+ 
+ 
+10º Após clicar em NOVO PROPONENTE, você terá que inserir os dados da empresa/instituição à qual deseja se 
+vincular e solicitar vínculo: 
+ 
+ 
+ 
+Obs.: Após solicitar vínculo, o Dirigente da Instituição deve aceitar esse vínculo, entrando no Salic e acessando o 
+menu Administrativo > Gerenciar Responsáveis. 
+ 
+Atenção: Se você for o Dirigente da Instituição, não precisa solicitar vínculo, visto que já foi cadastrado como 
+Dirigente, conforme passo 8. 
+ 
+11º Antes de apresentar uma proposta, o proponente precisa cadastrar um portfólio com as comprovações de 
+realização de atividades culturais. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+11 
+ 
+Cadastrando um portfólio 
+ 
+1º Clique no menu Administrativo > Portfólio: 
+ 
+ 
+ 
+2º clique em NOVO PORTFÓLIO: 
+ 
+ 
+Abrirá a seguinte janela: 
+ 
+ 
+ 
+3º Siga o passo a passo da imagem acima para anexar seu portfólio. 
+ 
+ 
+ 
+
+ 
+12 
+ 
+Obs.: O portfólio deve ser anexado uma única vez, ou seja, só deverá ser encaminhado 1 (um) único portfólio por 
+proponente (independentemente da quantidade de propostas e projetos). 
+ 
+ 
+ATENÇÃO: 
+ 
+Para a comprovação das atividades, o portfólio deverá conter pelo menos um dos seguintes documentos: 
+ 
+1.1.1. Folders, panfletos, cartazes ou busdoor de eventos realizados pelo proponente, desde que contenham a 
+logomarca ou nome do proponente explicitamente destacados; 
+ 
+1.1.2. Notas fiscais ou contratos de prestação de serviços realizados pelo proponente, desde que acompanhados 
+de elementos que comprovem a realização dos serviços; e 
+ 
+1.1.3. Matérias de jornais ou sítios ou registros videográficos e/ou fotográficos de forma visível que citem 
+explicitamente a realização do evento, desde que contenham a logomarca ou o nome do proponente, 
+explicitamente destacados. 
+ 
+Obs:  
+a) Os materiais enviados precisam estar legíveis e o nome do proponente deve estar destacado (contornado 
+ou circulado em cor destacada) para melhor visualização e  
+b) O envio de links para acessar tais materiais comprobatórios não será considerado; 
+ 
+ 
+Após encaminhar o seu portfólio, aguarde a análise. 
+ 
+Caso seu portfólio não seja aceito, elabore um novo documento que atenda aos requisitos acima citados e anexe 
+novamente. 
+ 
+Somente após a aprovação do portfólio, o proponente conseguirá encaminhar propostas para análise. 
+ 
+12º Agora vamos apresentar uma proposta.  
+ 
+APRESENTANDO UMA PROPOSTA 
+ 
+ 
+ 
+Passo 1: Clique no menu Proposta > Listar. 
+ 
+Passo 2: Selecione o proponente. 
+ 
+ATENÇÃO: Nesse momento é muito importante que o proponente escolha se quer apresentar a proposta como 
+pessoa física (CPF) ou como pessoa jurídica (CNPJ). Se o proponente se confundir e escolher errado, não poderá 
+trocar depois, devendo arquivar a proposta que cadastrou com proponente errado e apresentar uma nova 
+proposta. 
+ 
+
+ 
+13 
+ 
+Passo 3: Agora que escolheu o proponente corretamente, clique em NOVA PROPOSTA, aparecerá na tela a 
+Declaração de responsabilidade com informações importantes. 
+ 
+ 
+ 
+ 
+Obs.: Leia com atenção, selecione o “De acordo” ao fim da página e clique em Confirmar. 
+ 
+Após concordar com os termos da Declaração de Responsabilidade, o formulário NOVA PROPOSTA abrirá para 
+preenchimento: 
+ 
+ 
+ 
+ 
+Obs.: Nessa página você terá que identificar sua proposta, escolhendo o Nome da Proposta, Tipicidade e seus limites 
+orçamentários, escrever o Resumo, preencher as Informações Complementares, informar o Período de Realização, 
+os Objetivos e a Justificativa. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+14 
+ 
+ 
+CADASTRANDO A PROPOSTA 
+ 
+1- Nome da Proposta Cultural 
+ 
+ 
+ 
+A proposta deve apresentar um título curto, que seja capaz de dar uma ideia concisa e clara do que se quer 
+realizar e fazer referência ao objeto do projeto. No caso de eventos de ação continuada ou de datas 
+comemorativas de calendários específico (Plano Anual, Carnaval, Natal etc.), fazer também referência ao tipo 
+do evento no título, bem como ao ano a que se referem.  
+ 
+O título pode: 
+ 
+a) Coincidir com o nome da obra/evento (ex.: “Natal do Céu Iluminado de Brasília 2025”); 
+b) Conter o nome da obra, porém acrescentando informação para indicar o objeto do projeto (ex.: 
+“Edição do livro Macunaíma”); 
+c) Indicar a edição do evento (ex.: “II Festival Brasileiro de Circo”, “Mostra de Cinema Brasileiro 
+2025”). 
+d) No caso de Plano anual ou plurianual deve-se especificar no título o nome da instituição e que 
+se trata de plano anual ou plurianual. (ex.: Instituto Amigos da Cultura - Plano trienal 2025 – 
+2027) 
+• 
+No caso de proposta de plano anual, acrescente a expressão “Plano Anual, Bianual, 
+Trianual ou Quadrienal” no nome da proposta. 
+ 
+ 
+NÃO insira aqui informações referentes ao resumo da proposta, títulos muito longos ou a expressão “título 
+provisório”. 
+ 
+ 
+ 
+2- Tipicidade e seus Limites Orçamentários e Tipologias. 
+ 
+ 
+ 
+ 
+Aqui você precisa escolher qual a tipicidade e tipologia do seu projeto. Estas são as tipicidades e tipologias 
+disponíveis: 
+ 
+a) Tipicidades de projetos Limitados a R$ 1.500.000,00: 
+ 
+• 
+Arte Religiosa: projeto que abrange as manifestações artísticas que dialogam e expressam as seguintes 
+tipologias:   
+ 
+o Espiritualidade;  
+o Sagrado e seus símbolos; e 
+o Transcendência; e 
+o Religiosidade. 
+
+ 
+15 
+ 
+ 
+• 
+Arte Urbana: projeto que abrange o conjunto das expressões de grupos e indivíduos que desenvolvem seu 
+fazer cultural, preferencialmente, nas ruas, nas praças, nos bairros, em espaços públicos, valorizando as 
+periferias criando novas formas de arte e sociabilidade.  
+ 
+Tipologias:  
+ 
+o Ballroom;  
+o Batalhas de rimas;   
+o Estátuas vivas;   
+o Funk; 
+o Hip-hop;   
+o Paredões de som; 
+o Saraus; 
+o Slam de poesias; 
+o Sound Systems; 
+o Teatro, Circo e Dança de Rua; 
+o Lambe-Lambe;  e 
+o Paradas do Orgulho LGBTQIAPN+.   
+ 
+• 
+Cultura Afro brasileira: projeto que abrange as manifestações artísticas afro-brasileiras e expressões 
+populares .  
+ 
+       Tipologias: 
+ 
+o Samba; 
+o Jongo;  
+o Carimbó; 
+o Maxixe; 
+o Maculelê; e 
+o Maracatu; 
+ 
+• 
+Povos e Comunidades Tradicionais: projeto que abrange as manifestações artísticas dos povos e 
+comunidades tradicionais.  
+ 
+Tipologias:  
+ 
+o Andirobeiras;  
+o Apanhadores de Sempre-Vivas;  
+o Caatingueiros; 
+o Caíçaras;  
+o Castanheiras;  
+o Catadores de Mangaba;  
+o Ciganos;  
+o Cipozeiros;  
+o Extrativistas;  
+o Faxinalenses;  
+o Fundo e Fecho de Pasto;  
+o Geraizeiros;  
+o Ilhéus;  
+o Indígenas;  
+o Isqueiros;  
+
+ 
+16 
+ 
+o Morroquianos;  
+o Pantaneiros;  
+o Pescadores Artesanais;  
+o Piaçaveiros;  
+o Pomeranos;  
+o Povos de Terreiro;  
+o Quebradeiras de Coco Babaçu;  
+o Quilombolas;  
+o Retireiros;  
+o Seringueiros;  
+o Vazanteiros; e  
+o Veredeiros. 
+ 
+ 
+• 
+Projetos Normais: Projetos que não se enquadram nas exceções dos limites de teto citados nos artigos 14, 
+15 e 16 da IN 23/2025  
+ 
+ Tipologia: Projeto Normal 
+ 
+ 
+b) Tipicidade “Projetos Específicos”, limitados a R$ 6.000.000,00 (Artigo 14 da IN 23/2025) 
+ 
+Tipologias: 
+ 
+• 
+Inclusão da pessoa com deficiência, com foco na participação ativa e acessibilidade plena; 
+o Projeto cultural inclusivo voltado para PcD ou que tenha na equipe uma parcela significativa de 
+colaboradores ou artistas PcD, com acessibilidade plena. 
+ 
+• 
+Premiações; 
+• 
+Pesquisas; 
+• 
+Concertos sinfônicos; 
+• 
+Desfiles festivos; 
+o Desfiles festivos: desfiles de caráter musical e cênico que tenham relação com festividades 
+regionais, com confecções de fantasias, adereços ou materiais cenográficos. 
+ 
+• 
+Datas comemorativas nacionais com calendários específicos; 
+o Datas comemorativas regionais, nacionais com calendários específicos e de povos originários, 
+tradicionais, populares e afrodescendentes: dias especiais que são celebrados em todo o país e que 
+estão organizados em um calendário anual, como por exemplo, natal, réveillon - ano novo, paixão 
+de Cristo, páscoa, festas juninas e festas populares, entre outras. 
+ 
+• 
+Ações de incentivo à leitura;  
+o Eventos culturais voltados ao incentivo à leitura, criação literária e editorial de livros 
+ 
+• 
+Espetáculos artísticos com itinerância mínima em 2 (duas) regiões; 
+o Espetáculos artísticos dos segmentos do circo, dança e teatro e espetáculos musicais, com 
+itinerância mínima em duas regiões do Brasil ou entre o Brasil e o exterior; 
+ 
+• 
+Manutenção de grupos e coletivos artístico-culturais e corpos artístico-culturais estáveis; 
+o Corpos artísticos estáveis, grupos e coletivos culturais ou artístico-culturais: escolas de arte, 
+companhias artísticas de circo, dança, teatro ou orquestra, permanentes ou de longa duração, 
+geralmente vinculados a instituições culturais, para a formação artística e cultural, oferecendo 
+
+ 
+17 
+ 
+apresentações regulares e contribuindo para a educação e a difusão das artes. 
+ 
+• 
+Projetos educativos, incluindo cursos, oficinas e outras atividades pedagógicas; 
+• 
+ Exposições de artes visuais, culturais, com museografia ou relacionadas a acervos de museus; 
+• 
+plataformas de vídeo sob demanda independentes 
+ 
+c) Tipicidade “Projetos Especiais”, limitados a R$ 15.000.000,00 (Artigo 15 da IN 23/2025) 
+Tipologias:  
+ 
+ 
+• Teatro Musical; 
+o Caso o seu projeto esteja nesta categoria não se esqueça de anexar a dramaturgia da peça cênica 
+e deixar claro, na sua proposta, as ações de dança e de canções com coreografias típicas do gênero 
+para a encenação do roteiro, tendo por fio condutor uma direção teatral. Ressaltamos que um 
+show musical entremeado por esquetes teatrais, declamações, breves intervenções de qualquer 
+natureza, eventualmente com alguma cenografia ou figurinos NÃO caracteriza um evento no 
+Segmento Teatro Musical. 
+ 
+• Óperas; 
+o Todos os tipos operísticos: entre eles opera- balada, opera seria, buffa, opereta, de 
+Pequim, opera rock. 
+ 
+• Festival, bienal, festa ou feira; 
+o 
+Eventos culturais, artísticos, de exposições de arte, de entretenimento, de difusão de 
+conteúdos, mercado e rodadas de negócios audiovisuais, de celebração e promoção da 
+literatura, entre outras expressões culturais, visando celebrar, destacar, promover, lançar, 
+debater e demonstrar, permitindo que o público tenha acesso às artes, à cultura e 
+inovações, para conhecimento e discussão de novas tendências. 
+o 
+Quando se tratar de Festival de Audiovisual o produto principal deve ser Festival/ Mostra 
+Audiovisual. 
+o 
+Se não for Audiovisual, o Produto principal obrigatório deve ser: Festival, bienal, festa ou 
+feira (somente estrutura), nesses casos é obrigatório cadastrar os produtos secundários 
+referentes às ações culturais realizadas no projeto (Espetáculo de Artes Cênicas, 
+Apresentação Musical, Exposição de Artes e etc,), conforme  o segmento de maior valor. 
+o 
+ A planilha orçamentária do produto Festival, bienal, festa ou feira (somente estrutura) 
+deve conter somente a previsão das despesas estruturais do evento e a planilha 
+orçamentária para os demais produtos secundários deve conter as despesas pertinentes 
+às suas especificidades. 
+o 
+O enquadramento será baseado na área e segmento do produto secundário de maior custo 
+(ação cultural preponderante no evento). 
+o 
+Nos OBJETIVOS ESPECÍFICOS deve-se detalhar do que se trata cada produto, como por 
+exemplo:  
+PRODUTO FESTIVAL, BIENAL, FESTA OU FEIRA (SOMENTE ESTRUTURA): Estrutura para  o evento de 3 dias 
+com as seguintes ações culturais: 
+PRODUTO ESPETÁCULO DE ARTES CÊNICAS:  24 apresentações teatrais de diversos grupos. 
+PRODUTO APRESENTAÇÃO MUSICAL: 35 shows de música exclusivamente instrumentais. 
+ 
+Atenção: Caso o seu projeto esteja nesta categoria não se esqueça de encaminhar a programação 
+cultural prevista e o detalhamento das ações culturais separadas por produtos na planilha 
+orçamentária. 
+
+ 
+18 
+ 
+d) Tipicidade “Projetos Especiais”, sem limite de valor (Artigo 16 da IN 23/2025) 
+ 
+Tipologias: 
+ 
+• Patrimônio cultural;  
+o Projeto referente a patrimônio material e imaterial. 
+ 
+• 
+Construção, restauração e reforma de museus;  
+ 
+• 
+conservação, construção e implantação de equipamento cultural; 
+ 
+• 
+Preservação, digitalização e doação de acervos, e 
+ 
+• 
+Desenvolvimento sustentável de territórios criativos. 
+o Desenvolvimento de Territórios Criativos: o desenvolvimento de territórios criativos 
+consiste em um processo que busca promover o crescimento econômico e social 
+sustentável de um determinado espaço geográfico por meio da valorização e do estímulo 
+à criatividade, à cultura e à inovação, com abordagem, a cultura e a economia criativa, 
+são vistas como motores de desenvolvimento local, capazes de gerar empregos, atrair 
+investimentos e fortalecer a identidade cultural de uma comunidade, inclusive povos 
+originários, tradicionais, populares e afrodescendentes. 
+o Apenas pessoas jurídicas, exceto microempreendedores individuais, podem apresentar 
+propostas nessa tipologia. 
+o Produto principal obrigatório: Desenvolvimento de Território Criativo. 
+o As propostas enquadradas nessa tipologia devem contemplar, obrigatória e 
+cumulativamente, os seguintes requisitos: I - delimitação do território a ser trabalhado 
+na proposta; II - previsão de realização de programas e ações estruturantes e contínuos, 
+que garantam a sustentabilidade do projeto após o término de sua fase de 
+implementação por meio do Programa Nacional de Apoio à Cultura; III - indicação de uma 
+ou mais dinâmicas econômicas locais ou regionais de criação, produção, comercialização 
+e consumo de bens e serviços culturais e criativos que serão desenvolvidas no projeto; IV 
+- identificação, mapeamento ou diagnóstico dos ecossistemas criativos e seus atores-rede 
+presentes no território; V - proposição de modelo de governança da implementação do 
+projeto, amparado em plataformas digitais e fundamentado na articulação em rede dos 
+atores do ecossistema criativo local ou regional, que contemple o monitoramento e 
+avaliação de resultados e impactos do projeto; VI - previsão de realização de estudos e 
+pesquisas ou estruturação de unidades no território (núcleos, centros de pesquisa, 
+laboratórios, observatórios ou outros) voltadas à produção de dados e indicadores 
+confiáveis sobre a economia criativa do território e do mundo do trabalho em cultura; VII 
+- previsão de atuação em rede ou em parceria com instituições públicas e privadas do 
+território, que tenham interface com a economia criativa, assim como com as 
+comunidades locais, privilegiando a participação direta de força de trabalho e de 
+fornecedores de insumos do próprio território; VIII - previsão de realização de atividades 
+de qualificação ou formação para profissionais, empreendedores e empreendimentos 
+criativos no território; e IX - oferta de suporte para a criação ou estruturação de negócios 
+culturais e criativos no território. 
+o As propostas de projetos para desenvolvimento de Territórios Criativos deverão ser 
+apresentadas até o dia 31 (trinta e um) de agosto e seu ciclo anual será coincidente com 
+o ano fiscal, assim como o valor total do projeto adequado para a execução no prazo de 
+12 (doze), 24 (vinte e quatro), 36 (trinta e seis) ou 48 (quarenta e oito) meses, 
+coincidentes com anos fiscais subsequentes. 
+ 
+
+ 
+19 
+ 
+ 
+. 
+e) Tipicidade “Planos Anuais”, respeitados os valores da série histórica de captação (Artigo 16, inciso I) 
+ 
+Tipologias: 
+• 
+Plano Anual 
+• 
+Plano Bianual 
+• 
+Plano Trienal 
+• 
+Plano Quadrienal 
+ 
+o 
+Plano anual ou plurianual de atividades: projeto cultural apresentado obrigatóriamente 
+por pessoa jurídica sem fins lucrativos que contemple, por um período de doze, vinte e quatro, 
+trinta e seis ou quarenta e oito meses coincidentes com os anos fiscais, a manutenção, 
+atividades de caráter permanente, espaços culturais, grupos e coletivos artístico-culturais, 
+corpos artísticos estáveis, realização de eventos periódicos e continuados, e outras ações de 
+sua programação, na forma de plano anual ou plurianual de atividades, conforme art. 54. do 
+Decreto nº 11.453, de 23 de março de 2023. 
+o 
+Série histórica de captação: compreende a média calculada com base nos últimos 3 (três) 
+exercícios captados, considerando uma variação superior de até 30% (trinta por cento), dos 
+projetos de planos anuais ou plurianuais, ressalvado que, quando o resultado for inferior ao 
+valor da carteira, poderão preservar esses limites. 
+o 
+Caso seja o primeiro projeto de plano anual do proponente ou a série histórica seja 
+inferior a R$ 15.000.000 , o limite de valor da proposta passa a ser  R$ 15.000.000. 
+o 
+Somente pessoa jurídica sem fins lucrativos pode cadastrar esse tipo de proposta 
+o 
+Produto principal obrigatório: Plano Anual 
+o 
+É obrigatório cadastrar os produtos secundários referentes às ações culturais realizadas 
+pelo projeto. 
+o 
+A planilha orçamentária do produto PLANO ANUAL deve conter somente a previsão das 
+despesas de manutenção da instituição, equipamento cultural ou grupo artístico e os demais 
+produtos secundários devem conter as despesas pertinentes às suas especificidades. 
+o 
+O cadastro de todos as ações culturais oferecidas no projeto é crucial para o correto 
+enquadramento da proposta, visto que a proposta deve ser enquadrada de acordo com a ação 
+cultural mais relevante, definida pelo produto secundário de maior valor no caso de Plano 
+anual. 
+o 
+A realização de eventos culturais ou artístico-culturais de ações continuadas, como 
+festivais, seminários, bienais, feiras, festas, entre outros, devem contemplar exclusivamente 
+uma edição, de forma a garantir a execução e o acompanhamento detalhado de todas as 
+etapas e metas previstas. 
+o 
+No caso da submissão de planos anuais e plurianuais que contemplem produtos 
+audiovisuais deverão ser observados os limites orçamentários previstos no art. 35 desta 
+Instrução Normativa. 
+o 
+As propostas de planos anuais ou plurianuais deverão ser apresentadas até o dia 31 de 
+agosto do ano anterior ao do início do cronograma da proposta. 
+ 
+ 
+f) Tipicidade “Editais de Estatais”: Exclusivo para projetos selecionados nos editais previamente aprovados pelo 
+MinC. 
+Tipologias: Escolher o edital no qual foi selecionado. 
+ 
+g) Tipicidade “Editais Compartilhados”: Exclusivo para propostas que concorrerão nos Editais publicados pelo 
+MinC. 
+Tipologias: Escolher o edital no qual deseja concorrer. 
+
+ 
+20 
+ 
+ 
+ATENÇÃO: O proponente deve escolher com atenção a tipicidade e tipologia, visto que a tipologia define os 
+produtos que poderão ser escolhidos no plano de distribuição. Por exemplo: Para projetos da Tipologia Teatro 
+Musical, o produto principal disponível é apenas o produto Espetáculo de Artes Cênicas. Para projetos na Tipologia 
+Plano anual, o produto principal disponibilizado é apenas o produto Plano anual. Para projetos de Tipologia 
+Exposição de Artes, o único produto principal disponibilizado é Exposição Cultural/de Artes. 
+ 
+`Para 
+consultar 
+a 
+relação 
+de 
+produtos 
+por 
+tipicidade, 
+utilize 
+a 
+consulta 
+disponível 
+no 
+https://aplicacoes.cultura.gov.br/comparar/salicnet/ no menu lateral esquerdo clique em “Domínio”> Produto, 
+Tipicidade e área. 
+ 
+ 
+3- Informações Complementares 
+ 
+ 
+ 
+Data Fixa 
+ 
+Marcar “Sim” somente para eventos de ação continuada ou data comemorativa nacional de calendário 
+específico. 
+Exemplos: ano novo, carnaval, páscoa, festa junina, natal, Plano anual. 
+Atenção: Projetos marcados com Data fixa não podem ser prorrogados. 
+ 
+Agência Bancária 
+ 
+Em virtude do contrato firmado entre o Ministério da Cultura e o Banco do Brasil, este campo deve ser 
+preenchido com o número da agência do Banco do Brasil de escolha do proponente e que esteja apta à 
+movimentação dos recursos captados. 
+ 
+Atenção: Confira se a agência declarada ainda existe ou foi migrada para outra sede. Dígito X corresponde a 0 
+(zero). 
+ 
+O campo deve ser preenchido com o número da agência do Banco do Brasil (BB) de escolha do proponente, 
+contendo 5 números (Ex.: 0000-0). No caso de dúvida, indicar ao gerente da conta do BB a Instrução Normativa 
+interna do BB que trata dos procedimentos das contas da Lei Rouanet e a IN 153. 
+ 
+É proposta de audiovisual? 
+ 
+Marcar “Sim” somente para projetos cujo produto principal seja do Audiovisual. 
+Exemplos:  
+o Curta e média metragem; 
+o Programa de rádio e podcast; 
+o Websérie; 
+o Sitios de internet; 
+o Jogos eletrônicos; 
+o Aplicativos culturais; 
+o Programa de televisão; 
+o Difusão de acervos audiovisuais. 
+ 
+ 
+
+ 
+21 
+ 
+Plano de Execução Imediata 
+ 
+Caso o projeto se enquadre em um dos incisos do §1º do Artigo 52 da IN 23/2025, passará direto para a fase 
+de adequação à realidade de execução, não necessitando de captação mínima de 10%. Escolha a opção na 
+qual seu projeto se enquadra: 
+ 
+• 
+Projeto normal (10% de captação) 
+• 
+Planos anuais 
+• 
+Projeto aprovado em Editais (anexar o resultado do edital) 
+• 
+Projeto com contrato de patrocínio  
+o Contrato de patrocínio: documento formalizado entre o incentivador e o proponente, vinculado ao 
+projeto que estabelece as regras do patrocínio, garantindo no mínimo 20% do valor total do 
+projeto, sem condicionantes para o desembolso dos recursos, contendo: 
+ 
+a) identificação do incentivador, do proponente e do projeto, incluindo o número da proposta 
+ou do projeto; 
+b) valor do patrocínio ou doação; 
+c) data de validade do contrato; 
+d) cronograma de desembolso dos recursos; e 
+e) assinaturas dos responsáveis pela instituição patrocinadora e pelo proponente do projeto. 
+ 
+4- Período de Realização 
+ 
+ 
+ 
+ 
+Aqui você vai cadastrar as datas previstas para início e finalização do seu projeto incluindo a fase de prestação 
+de contas. 
+ 
+• 
+Data de Início: refere-se à fase inicial do projeto (pré-produção), incluindo a fase de captação 
+de recurso. 
+o A proposta deve ser cadastrado com pelo menos 30 dias de antecedência da data de ínicio 
+de realização. 
+ 
+• 
+Data Final: refere-se ao fim da execução do projeto (incluindo etapas de pós-produção). 
+ 
+• 
+Prorrogação automática: Se for do seu interesse, marcar sim para prorrogação automática 
+do prazo de captação. 
+o É comum que o tempo de captação do projeto se alongue. Para projetos sem data fixa o 
+tempo de captação pode ser prorrogado por até 36 meses. 
+o Se for do seu interesse, marque “Sim” no campo Prorrogação Automática e coloque a 
+data final para 36 meses que o sistema prorrogará seu projeto toda vez que o período de 
+captação terminar junto com o ano fiscal, limitado ao fim do período de realização 
+cadastrado na proposta. 
+ 
+ 
+ 
+
+ 
+22 
+ 
+ATENÇÃO:  
+ 
+O período de realização deve abranger o prazo de captação de recursos e o prazo de execução. 
+ 
+Para projetos de ação continuada e eventos de data comemorativa de calendário específico a data 
+fim do período de realização não deve ultrapassar o ano de realização do evento e deve-se marcar 
+“sim” na opção “data fixa” no Salic, visto que esses projetos não podem ser prorrogados, conforme 
+§2º do Artigo 63 da IN 23/2025. 
+ 
+Para os demais projetos, o prazo máximo de captação de recursos, incluindo eventuais 
+prorrogações, poderá ser de até 36 meses. Dessa forma, caso seu projeto não seja de data fixa e o 
+proponente deseje que o período de captação de recursos seja prorrogado até esse limite, deve-se 
+cadastrar o período de realização do projeto com esse prazo e marcar sim na opção “Prorrogação 
+automática” no Salic. 
+ 
+Lembrando que a prorrogação automática de prazo de captação se limita ao período de realização 
+informado pelo proponente na proposta. Ou seja, caso o proponente não consiga captar recursos 
+dentro do prazo informado na proposta, o projeto será arquivado por falta de captação. 
+ 
+As prorrogações de prazos de execução do projeto só poderão ser solicitadas em dois momentos: 
+depois da adequação à realidade (após a captação de 10%), superada as etapas de E90 - Projeto 
+liberado para adequação à realidade de execução e B20  - Projeto adequado à realidade de 
+execução  e na readequação à realidade (após a captação de 20%). 
+ 
+Observamos que caso seu projeto esteja no processo de aprovação da execução (nas situações de 
+E90, B20, B11, B14, C20, C10, C30, D50, D25, D51, D52), a prorrogação de captação somente será 
+possível após a homologação da execução (situação E10 ou E12). Contudo, informamos que as 
+contas continuam abertas para aporte no decorrer do processo. 
+ 
+Não serão concedidas prorrogações de captação aos projetos de Planos anuais,  ações continuadas  
+e datas comemorativas nacionais com calendários específicos, considerando seus cronogramas 
+previamente informados ou historicamente definidos. 
+ 
+Se o projeto não alcançar captação suficiente para entrar em execução (20%) dentro do período de 
+realização informado pelo proponente, o projeto será arquivado e os recursos captados poderão 
+ser transferidos a outro projeto do proponente com captação vigente. 
+ 
+Diante disso, quando do cadastramento da proposta, avalie se o período de realização (que deve 
+abranger o prazo de captação e execução do projeto) informado na proposta é suficiente para a 
+realizar a captação de recursos e executar o objeto proposto.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+23 
+ 
+5- No caso de bem tombado 
+ 
+ 
+ 
+Preenchimento somente no caso de projetos de Patrimônio Cultural, em que seu objeto trate de salvaguarda, 
+preservação ou de restauro de obras, edifícios, fachadas, monumentos, entre outros bens tombados. 
+ 
+Alerta-se que, nesses casos, o preenchimento deste campo deve apresentar o ato de tombamento ou outra 
+forma de acautelamento, seja em esfera federal, estadual ou municipal. 
+ 
+Importante lembrar que a publicação do ato de tombamento no diário oficial do ente federado deve ser 
+anexada nos documentos da proposta. 
+ 
+ 
+6- Resumo da Proposta Cultural 
+ 
+ 
+ 
+ 
+ 
+Campo destinado à apresentação de TODOS os produtos culturais cadastrados na proposta (Livro, Apresentação 
+Musical, Exposição etc.) em no máximo 05 linhas, sem conter adjetivações e nem fazer referências a dados que 
+possam mudar ao longo da execução, tais como: local de realização, número de beneficiários, número de 
+apresentações, valores de ingresso, período de realização, justificativa e artistas envolvidos.  
+ 
+O texto deve ser simples e conciso. Dizer o que se pretende.  
+Esse texto será publicado no Diário Oficial da União (DOU), então tem que ser econômico, frugal e que comunique 
+a essência do projeto. Por isso vá direto ao ponto. Escreva um texto objetivo e criativo e evite o uso de adjetivos e 
+floreios.Esse texto poderá ser usado como auxílio na captação de recursos de patrocinadores e doadores. 
+ 
+Exemplos: 
+1) O Projeto visa a realização de apresentações do espetáculo teatral “Nome da Peça”. 
+2) O Projeto visa a edição, publicação e distribuição gratuita do Livro “Nome do Livro” 
+3) O Projeto visa a realização do Festival “Nome do Festival” com apresentações de espetáculos de artes 
+cênicas (teatro, dança e circo), apresentações musicais instrumentais, exposições de artes de artistas locais e 
+realização de oficinas de artes durante o evento. 
+
+ 
+24 
+ 
+ 
+7- Objetivos 
+ 
+ 
+ 
+ 
+O campo OBJETIVOS deve conter os objetivos gerais e específicos de forma separada, especificando cada 
+categoria (geral e específico).  
+Objetivos Gerais: Campo destinado ao que o projeto pretende alcançar, sua finalidade.  
+Perguntas chave: Qual o principal resultado que o projeto pretende alcançar? Para que realizar o projeto? 
+Exemplos: 
+1) O objetivo desse projeto é realizar o Festival da Semana da Arte na cidade de Brasília em 
+comemoração ao centenário da cidade. 
+2) O objetivo do projeto é realizar apresentações teatrais da peça tal em temporada de 2 meses 
+no Rio de Janeiro. 
+ 
+Objetivos Específicos: Campo destinado ao detalhamento de todos os produtos cadastrados no PLANO DE 
+DISTRIBUIÇÃO, especificando do que se trata e a quantidade oferecida de cada produto.  
+ 
+Transcreva cada produto cadastrado e detalhe do que se trata, conforme exemplos abaixo: 
+ 
+Exemplo 1: 
+ 
+1) FESTIVAL, BIENAL,FESTA OU FEIRA: Estrutura para o evento de 3 dias com as seguintes 
+ações culturais: 
+2) ESPETÁCULO DE ARTES CÊNICAS: 24 apresentações teatrais de diversos grupos. 
+3) APRESENTAÇÃO MUSICAL: 35 shows de música exclusivamente instrumentais. 
+ 
+Exemplo 2: 
+ 
+1) Produto ESPETÁCULO DE ARTES CÊNICAS: 15 apresentações da peça “NOME DA PEÇA” 
+durante dois meses em Salvador/BA 
+ 
+Exemplo 3: 
+ 
+1) Produto CURSO/OFICINA/CAPACITAÇÃO (MÚSICA): realizar durante 10 meses oficinas de 
+tambor duas vezes na semana, totalizando 80 aulas de 50h/a durante a execução do projeto. 
+
+ 
+25 
+ 
+ 
+ATENÇÃO: Evite termos como “levar a cultura para locais ....’, “Propagar a cultura” , “Gerar empregos...”, 
+“Trazer alegria...”, “Transformar a vida...”. 
+ 
+Nesse campo deve constar apenas as entregas mensuráveis da sua proposta, o que terá que ser comprovado 
+na prestação de contas. 
+ 
+• 
+Cite a quantidade total estimada para cada produto cadastrado no Plano de Distribuição, em quais 
+quantidades de cada produto cultural serão oferecidas à população consumidora. 
+ 
+• 
+Este registro é muito importante pois tudo deve ser mensurado para que você consiga comprovar a 
+sua execução total ou parcial na fase de prestação de contas. 
+ 
+• 
+Para construir uma proposta cultural eficiente é necessário saber como você vai prestar contas do 
+projeto. 
+ 
+Fique de olho! 
+ 
+• 
+a) No caso de oficinas, informar sobre qual o assunto, tema ou conteúdo será a oficina, quantas 
+vezes por semana será oferecida as oficinas e por quantos meses, além do total de carga horária; 
+• 
+b) No caso de Exposições, informar por quanto tempo a exposição ficará disponível para visitação e 
+durante quantos dias da semana será aberta à visitação; 
+• 
+c) Caso o campo “Objetivos Específicos” não esteja preenchido de forma clara e suficiente para que 
+se entenda o que será realizado no projeto, a proposta não será analisada, visto que esse campo é 
+crucial para a análise de toda a proposta. 
+8- Justificativa 
+ 
+ 
+Insira uma justificativa do projeto, destacando os motivos para sua realização e esclareça a necessidade do 
+uso de recursos públicos permitidos pelo Mecanismo Incentivo a Projetos Culturais. 
+ 
+Transcrever em quais incisos do Art. 1º da Lei 8313/91 a proposta se enquadra e sua respectiva 
+fundamentação do porquê o inciso selecionado se aplica ao projeto. 
+ 
+ 
+ 
+ 
+
+ 
+26 
+ 
+Art. 1° Fica instituído o Programa Nacional de Apoio à Cultura (Pronac), com a finalidade de captar e 
+canalizar recursos para o setor de modo a: 
+I. contribuir para facilitar, a todos, os meios para o livre acesso às fontes da cultura e o pleno exercício dos 
+direitos culturais; 
+II. promover e estimular a regionalização da produção cultural e artística brasileira, com valorização de 
+recursos humanos e conteúdos locais; 
+III. apoiar, valorizar e difundir o conjunto das manifestações culturais e seus respectivos criadores; 
+IV. proteger as expressões culturais dos grupos formadores da sociedade brasileira e responsáveis pelo 
+pluralismo da cultura nacional; 
+V. salvaguardar a sobrevivência e o florescimento dos modos de criar, fazer e viver da sociedade brasileira; 
+VI. preservar os bens materiais e imateriais do patrimônio cultural e histórico brasileiro; 
+VII. desenvolver a consciência internacional e o respeito aos valores culturais de outros povos ou nações; 
+VIII. estimular a produção e difusão de bens culturais de valor universal, formadores e informadores de 
+conhecimento, cultura e memória; 
+IX. priorizar o produto cultural originário do País. 
+ 
+Transcrever o inciso e alínea do artigo Art. 3° da Lei 8313/91 referente aos objetivos que serão alcançados 
+com a proposta e sua respectiva fundamentação do porquê o inciso selecionado se aplica ao projeto. 
+ 
+Art. 3° Para cumprimento das finalidades expressas no art. 1° desta lei, os projetos culturais em cujo favor 
+serão captados e canalizados os recursos do Pronac atenderão, pelo menos, um dos seguintes objetivos: 
+ 
+I - incentivo à formação artística e cultural, mediante: 
+a) concessão de bolsas de estudo, pesquisa e trabalho, no Brasil ou no exterior, a autores, artistas e técnicos 
+brasileiros ou estrangeiros residentes no Brasil; 
+b) concessão de prêmios a criadores, autores, artistas, técnicos e suas obras, filmes, espetáculos musicais e 
+de artes cênicas em concursos e festivais realizados no Brasil; 
+c) instalação e manutenção de cursos de caráter cultural ou artístico, destinados à formação, especialização 
+e aperfeiçoamento de pessoal da área da cultura, em estabelecimentos de ensino sem fins lucrativos; 
+ 
+II - fomento à produção cultural e artística, mediante: 
+a) produção de discos, vídeos, obras cinematográficas de curta e média metragem e filmes documentais, 
+preservação do acervo cinematográfico bem assim de outras obras de reprodução videofonográfica de 
+caráter cultural;  
+b) edição de obras relativas às ciências humanas, às letras e às artes; 
+c) realização de exposições, festivais de arte, espetáculos de artes cênicas, de música e de folclore; 
+d) cobertura de despesas com transporte e seguro de objetos de valor cultural destinados a exposições 
+públicas no País e no exterior; 
+e) realização de exposições, festivais de arte e espetáculos de artes cênicas ou congêneres; 
+ 
+III - preservação e difusão do patrimônio artístico, cultural e histórico, mediante: 
+a) construção, formação, organização, manutenção, ampliação e equipamento de museus, bibliotecas, 
+arquivos e outras organizações culturais, bem como de suas coleções e acervos; 
+b) conservação e restauração de prédios, monumentos, logradouros, sítios e demais espaços, inclusive 
+naturais, tombados pelos Poderes Públicos; 
+c) restauração de obras de artes e bens móveis e imóveis de reconhecido valor cultural; 
+d) proteção do folclore, do artesanato e das tradições populares nacionais; 
+ 
+IV - estímulo ao conhecimento dos bens e valores culturais, mediante: 
+a) distribuição gratuita e pública de ingressos para espetáculos culturais e artísticos; 
+
+ 
+27 
+ 
+b) levantamentos, estudos e pesquisas na área da cultura e da arte e de seus vários segmentos; 
+c) fornecimento de recursos para o FNC e para fundações culturais com fins específicos ou para museus, 
+bibliotecas, arquivos ou outras entidades de caráter cultural; 
+ 
+V - apoio a outras atividades culturais e artísticas, mediante: 
+a) realização de missões culturais no país e no exterior, inclusive através do fornecimento de passagens; 
+b) contratação de serviços para elaboração de projetos culturais; 
+c) ações não previstas nos incisos anteriores e consideradas relevantes pelo Ministro de Estado da Cultura, 
+consultada a Comissão Nacional de Apoio à Cultura. 
+ 
+ 
+ 
+Após preencher todos os campos, clique em Salvar. Sua proposta  será cadastrada e receberá um número: 
+ 
+ 
+ 
+ 
+PREENCHENDO SUA PROPOSTA 
+ 
+1. Menu Informações Iniciais:  
+ 
+Identificação da proposta 
+ 
+ 
+ 
+ 
+ 
+Revise o preenchimento da suas informações iniciais ja detalhadas acima: Nome da Proposta, Tipicidade e seus 
+Limites orçamentários, Resumo, Informações Complementares, Período de Realização, Objetivos e a Justificativa e, 
+em caso de alteração, não esqueça de salvar. 
+ 
+ 
+ 
+
+ 
+28 
+ 
+Responsabilidade Social 
+ 
+ 
+ 
+ACESSIBILIDADE 
+ 
+ 
+ 
+As propostas culturais apresentadas ao mecanismo Incentivo a Projetos Culturais deverão conter medidas de 
+acessibilidade, de comunicação e divulgação acessíveis, compatíveis tecnicamente com as características do objeto 
+para cada linguagem artística de seus produtos, justificados e fundamentados, nos termos dos arts. 42 a 44, 54, 63, 
+67 a 71, 73 e 102 da Lei nº 13.146, de 6 de julho de 2015, do art. 46 do Decreto nº 3.298, de 20 de dezembro de 
+1999, do Decreto nº 9.404, de 11 de junho de 2018, considerando adaptações razoáveis que não acarretem ônus 
+desproporcional e indevido em cada caso, de modo a contemplar: 
+ 
+I - no aspecto arquitetônico, recursos de acessibilidade às pessoas com deficiência, com mobilidade reduzida ou 
+idosas para permitir o acesso aos locais onde se realizam as atividades culturais e espaços acessórios tais como 
+sanitários acessíveis e circulação; 
+ 
+II - no aspecto comunicacional e de conteúdo do projeto, recursos de acessibilidade às pessoas autistas e às pessoas 
+com deficiência (intelectual, física, auditiva, visual, psicossocial ou múltipla); e 
+ 
+III - no aspecto de comunicação e divulgação acessíveis do projeto, disponibilização de materiais em formatos 
+acessíveis, contendo informações sobre as medidas de acessibilidade das ações a serem executadas. 
+ 
+
+ 
+29 
+ 
+Exemplo: 
+ 
+1) Produto FESTIVAL/MOSTRA: 
+ 
+a. MEDIDAS DE ACESSIBILIDADE NO ASPECTO ARQUITETÔNICO: 
+ 
+i. 
+Disponibilização de infraestrutura (rampas, elevadores e barras laterais) e 
+adaptação de espaços/equipamentos com o objetivo de priorizar ou facilitar o 
+acesso; 
+ii. 
+Disponibilização de cadeira de rodas ou cadeira motorizada para deslocamentos 
+internos de Feiras e Festivais; 
+ 
+b. MEDIDAS DE ACESSIBILIDADE NO ASPECTO COMUNICACIONAL E DE CONTEÚDO:  
+ 
+Para pessoas com deficiência visual: 
+ 
+i. 
+Planos ou mapas táteis ou maquetes com a descrição de seus espaços; 
+ii. 
+Gravações com a descrição dos ambientes, dos percursos e roteiros dos pontos 
+de interesse e das obras; 
+iii. 
+Etiquetas e textos com versões em braile e em tipos ampliados, fixados de forma 
+a poderem ser lidos tanto por pessoas que estejam em pé, como por pessoas 
+sentadas; 
+iv. 
+Outras formas de interação e conhecimento das obras de arte expostas, tais 
+como réplicas em escala reduzida ou a descrição dos trabalhos em locução; 
+v. 
+Piso tátil para deficientes visuais; 
+vi. 
+Disponibilização de bengala inteligente; 
+vii. 
+Placas de sinalização em braile; 
+ 
+ 
+Para pessoas com deficiência auditiva: 
+ 
+i. Atendimento especializado em Libras ou por meio de articulador orofacial, 
+devidamente sinalizado; 
+ii. Sinais viso-motores para Surdos e deficientes auditivos; 
+ 
+Para pessoas com deficiência intelectual e autistas: 
+ 
+i.Monitoria especializada inclusiva ao longo das atividades com uso de “Linguagem 
+Simples” (recurso da acessibilidade cognitiva, criado para facilitar a comunicação das 
+pessoas com deficiência intelectual); 
+ii.Monitoria especializada inclusiva. (proteção de sons altos, luzes fortes e multidões 
+para pessoas no caso de pessoas TEA); 
+iii.Disponibilização de cadeiras na primeira fileira para pessoas com TEA e seu 
+acompanhante em locais com iluminação amena, menos barulho ou aglomerações. 
+Fast pass em filas de acesso (acesso pela saída); 
+iv.Disponibilização de protetores auriculares ou fones de ouvido para diminuição de 
+ruído para pessoas com TEA; 
+v.Disponibilização de óculos escuros para diminuir a exposição à luz para pessoas com 
+TEA; 
+
+ 
+30 
+ 
+vi.Disponibilização de protetores sensoriais para diminuir a sensação de areia na pele 
+em evento ao ar livre na praia para pessoas com TEA; 
+ 
+2) Produto ESPETÁCULO DE ARTES CÊNICAS:  
+ 
+a. MEDIDAS DE ACESSIBILIDADE NO ASPECTO ARQUITETÔNICO: 
+ 
+i. Disponibilização de infraestrutura (rampas, elevadores e barras laterais) e 
+adaptação de espaços/equipamentos com o objetivo de priorizar ou facilitar o 
+acesso; 
+ii. Reserva de assentos em locais de fácil acesso para facilitar a entrada e saída de 
+pessoas usuárias de cadeiras de rodas ou mobilidade reduzida; 
+ 
+b. MEDIDAS DE ACESSIBILIDADE NO ASPECTO COMUNICACIONAL E DE CONTEÚDO:  
+ 
+Para pessoas com deficiência visual: 
+ 
+i. Audiodescrição  do ambiente onde serão realizadas as apresentações (desde o 
+palco até a plateia) que permita o acesso informações importantes para a 
+compreensão do conteúdo, como: elementos do cenário, figurinos e trocas de 
+cenas; 
+ii. Audiodescrição das cenas que ocorrerão durante as apresentações (incluindo os 
+diálogos, as movimentações dos atores e as mudanças de cenário) que permita o 
+acesso informações importantes para a compreensão do conteúdo, como: 
+elementos do cenário, figurinos e trocas de cenas; 
+iii. Visita ao cenário: 30 minutos antes do início da peça, pessoas cegas e com baixa 
+visão são convidadas para subir no palco e tocar o cenário orientadas por 
+profissional de audiodescrição; 
+iv. Piso tátil para deficientes visuais; 
+v. Placas de sinalização em braile; 
+vi. Disponibilização de bengala inteligente; 
+ 
+Para pessoas com deficiência auditiva: 
+ 
+i. 
+Profissionais Intérpretes e tradutores em Libras capacitados para inclusão de 
+ouvintes nos contextos da Cultura Surda e acesso dos Surdos em produções 
+culturais em linguagem fonética; 
+ii. 
+Legendagem oculta (Closed caption)  para pessoas com deficiência auditiva ou 
+Surdas, salvo se beneficiado não alcançar a linguagem da legenda; 
+iii. 
+Sinais viso-motores para Surdos e deficientes auditivos; 
+ 
+Para pessoas com deficiência intelectual e autistas: 
+ 
+i. 
+Monitoria especializada inclusiva. (proteção de sons altos, luzes fortes e 
+multidões para pessoas no caso de pessoas TEA); 
+ii. 
+Disponibilização de cadeiras na primeira fileira para pessoas com TEA e seu 
+acompanhante em locais com iluminação amena, menos barulho (janelas 
+antirruído)  ou aglomerações. Fast pass em filas de acesso (acesso pela saída); 
+ 
+
+ 
+31 
+ 
+ 
+DEMOCRATIZAÇÃO DE ACESSO 
+ 
+ 
+ 
+Informe qual a medida de “ampliação de acesso” será adotada no projeto, conforme artigo 47 da IN 23/2025: 
+ 
+I - doar 10% (dez por cento) dos produtos resultantes da execução do projeto para distribuição 
+gratuita com caráter social ou educativo, além do previsto no art. 46, inciso III, totalizando 20% 
+(vinte por cento); 
+II - oferecer transporte gratuito ao público, prevendo acessibilidade à pessoa com deficiência ou 
+com mobilidade reduzida e aos idosos, incluindo os seus acompanhantes; 
+III - disponibilizar, na internet, registros audiovisuais dos espetáculos, das exposições, das atividades 
+de ensino, e de outros eventos referentes ao produto principal, acompanhado com libras e 
+audiodescrição; 
+IV - garantir a captação e veiculação de imagens das atividades e de espetáculos por redes públicas 
+de televisão e outros meios de comunicação gratuitos; 
+V - realizar, gratuitamente, atividades paralelas aos projetos, tais como ensaios abertos, estágios, 
+cursos, treinamentos, palestras, exposições e oficinas; 
+VI - realizar ação cultural voltada para crianças, adolescentes, jovens e seus educadores; 
+VII - realizar atividades culturais nos estabelecimentos prisionais das unidades da federação ou 
+instituições de longa permanência para idosos, para pessoas em residências terapêuticas e para 
+Unidades de Acolhimento da Rede de Atenção Psicossocial; 
+VIII - estabelecer parceria visando à formação de agentes culturais em iniciativas financiadas pelo 
+poder público; 
+IX - oferecer bolsas de formação, inserção e difusão para o mundo do trabalho em cultura voltadas 
+para a pesquisa e a qualificação técnica, artística e cultural, que alcancem públicos prioritários e 
+vulneráveis; e 
+X - outras medidas sugeridas pelo proponente, a serem apreciadas pela Comissão Nacional de 
+Incentivo à Cultura. 
+ 
+Após preencher os campos SALVE as alterações antes de ir para o próximo menu. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+32 
+ 
+ 
+Detalhes técnicos 
+ 
+ 
+ 
+ 
+ETAPAS DE TRABALHO 
+ 
+ 
+Esse campo deve ser subdividido em “Pré-produção”, “Produção/Execução” e “Pós-produção”. 
+Cada uma das três etapas deve conter detalhamento das suas respectivas ações. A definição do período para cada 
+etapa deve ser em dias, semanas ou meses de execução, sem especificação do mês ou data exata. 
+O prazo máximo para pós-produção é de 60 dias. 
+ 
+Exemplo: 
+ 
+Captação de recursos: Até 36 meses 
+ 
+PRÉ-PRODUÇÃO. Tempo estimado: 30 dias 
+- Reuniões de equipe. 
+- Assessoria de imprensa 
+- Contato com editoras 
+PRODUÇÃO/EXECUÇÃO Tempo estimado: 60 dias 
+- Ensaios 
+- Contratação de seguranças 
+
+ 
+33 
+ 
+- Registros do espetáculo 
+-Impressão dos livros. 
+PÓS-PRODUÇÃO (tempo máximo de 60 dias) Tempo estimado: 30 dias 
+-Avaliação 
+-Prestação de contas. 
+ 
+FICHA TÉCNICA 
+ 
+ 
+ 
+ 
+a) Deixe explícito qual atividade o proponente realizará no projeto, uma vez que o mesmo também deverá ser 
+o responsável pela gestão do processo decisório, incluindo atividade técnico-financeira. A delegação dessas 
+responsabilidades para terceiros se caracteriza como intermediação, fato que motiva o arquivamento da proposta 
+por contrariar a regulamentação relativa ao uso do incentivo fiscal. 
+ 
+b) Insira as seguintes informações acerca dos principais profissionais envolvidos no projeto: 
+- nome completo; 
+- função no projeto; e 
+- currículo resumido dos principais participantes.  
+ 
+ 
+SINOPSE DA OBRA 
+ 
+ 
+Insira o conteúdo de todos os produtos do projeto que necessitam de um breve resumo em relação ao seu assunto, 
+por exemplo: seminários, palestras, livros, espetáculo de circo, peça teatral, espetáculo de dança, performance, 
+classificação indicativa etária. 
+ 
+
+ 
+34 
+ 
+ 
+Exemplos: 
+1) No caso de produto LIVRO, insira no campo SINOPSE DA OBRA: 
+a) Descrever com detalhes o tema central que será abordado no livro. 
+b) Apresentar como o autor pretende dividir, por capítulos, o conteúdo do livro. 
+c) Explicar qual a relevância do tema abordado para a área cultural brasileira. 
+ 
+2)No caso de ESPETÁCULO DE ARTES CÊNICAS, insira no campo SINOPSE DA OBRA: 
+O resumo do espetáculo, com personagens, roteiro, temática etc. 
+ 
+3) No caso do produto SEMINÁRIO/ENCONTRO/PALESTRA, insira no campo SINOPSE DA OBRA: 
+O tema das palestras/seminários e um breve currículo dos palestrantes. 
+ 
+ESPECIFICAÇÕES TÉCNICAS DO PRODUTO 
+ 
+ 
+No caso de produto LIVRO, CATÁLOGO e CARTILHA, por exemplo, detalhe a paginação, o material, editoração, tipo 
+de papel, tipo de capa. 
+ 
+No caso do produto APRESENTAÇÃO MUSICAL: 
+ 
+No caso de proposta EXCLUSIVAMENTE INSTRUMENTAL – Deixe explícito nesse campo que se trata de 
+apresentações 100% instrumentais. 
+ 
+No caso de proposta EXCLUSIVAMENTE DE MÚSICA REGIONAL: Deixe explícito nesse campo que se trata de 
+apresentações 100% regionais, informando os rítmos a serem apresentados, lembrando que entende-se por música 
+regional: I - os gêneros musicais associados a bens de natureza imaterial registrados como Patrimônio Cultural, nas 
+esferas federal, estadual, distrital ou municipal; II - as manifestações musicais produzidas, que reflitam as tradições, 
+os modos de vida, as múltiplas realidades e as características de determinada região, de uma comunidade ou por 
+ela recebida e interpretada, resultando na criação de produtos culturais, respeitando as características daquela 
+região e sua tradição. 
+ 
+Atenção: Segue link da Súmula 32 da CNIC que trata do tema “Música Regional”: 
+ 
+ https://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=28/03/2024&jornal=515&pagina=37  
+ 
+No caso de propostas que tenham apresentações de música instrumental, popular cantada e regional:  informar a 
+quantidade de apresentações de cada estilo, minutagem e custos, incluindo cachês, com as apresentações de cada 
+segmento. 
+ 
+ATENÇÃO: Essas informações são essenciais para o correto enquadramento da proposta. 
+
+ 
+35 
+ 
+ 
+No caso do produto CURSO/OFICINA/CAPACITAÇÃO: insira o projeto pedagógico: documento integrante de 
+propostas voltadas para formação, capacitação, especialização e aperfeiçoamento na área da cultura, que 
+contenha, pelo menos, os objetivos gerais e específicos da proposta, sua justificativa, carga horária completa, 
+público-alvo e critério de seleção, metodologias de ensino, material didático a ser utilizado, conteúdo a serem 
+ministrados e profissionais envolvidos. 
+ 
+ 
+DESCRIÇÃO DA ATIVIDADE DO PRODUTO 
+ 
+ 
+Nesse campo informe qual ação de CONTRAPARTIDA SOCIAL será adotada no projeto. 
+ 
+A CONTRAPARTIDA SOCIAL é obrigatória nos casos de projetos com vendas de ingresso ou produto. Nesses casos, 
+o proponente deve inserir o produto CONTRAPARTIDAS SOCIAIS no Plano de Distribuição (esse produto é exclusivo 
+para projetos com cobrança de ingresso ou venda de produto), conforme artigo 49 da IN 23/2025. 
+ 
+As ações formativas oferecidas como CONTRAPARTIDA devem ser culturais ou artísticas: 
+ 
+a) deverão corresponder a pelo menos 10% (dez por cento) do quantitativo de público previsto no plano de 
+distribuição, contemplando no mínimo 20 (vinte) e no máximo 500 (quinhentos) beneficiários, podendo o 
+quantitativo máximo ser superado a critério do proponente. 
+ 
+b) não se confundem com as medidas de ampliação do acesso contidas no inciso V do art. 47, podendo abranger 
+uma das seguintes ações: 
+ 
+I - oferecer bolsas de estudo ou estágio de gestão cultural e artes; 
+II - oferecer ensaios abertos, estágios, cursos, treinamentos, palestras, exposições e oficinas; ou 
+III - outras medidas sugeridas pelo proponente, a serem apreciadas pela CNIC. (Informar quais são as medidas 
+sugeridas) 
+ 
+c) devem ser presenciais ou online e gratuitas, destinadas a alunos e professores de instituições públicas de ensino 
+de qualquer nível, que visem a conscientização para a importância da arte e da cultura por intermédio do produto 
+cultural do projeto. 
+ 
+Após preencher os campos SALVE as alterações antes de ir para o próximo menu. 
+ 
+ 
+ 
+
+ 
+36 
+ 
+Outras Informações 
+ 
+ 
+ 
+ 
+ 
+OUTRAS INFORMAÇÕES 
+ 
+ 
+ 
+ 
+Esse campo é destinado a informações complementares, que não foram inseridas em outros campos, como por 
+exemplo: beneficiários e os trechos de passagens que foram inseridas no orçamento, esclarecimentos adicionais, 
+informações sobre destinação de bens permanentes, etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+37 
+ 
+2. Local de Realização:  
+ 
+ 
+ 
+a) Local de realização: Informar os locais de realização do projeto. (cadastrar todas as cidades onde serão realizadas 
+as ações do projeto).  
+b) Deslocamentos: Informar todos os deslocamentos realizados no projeto. Preenchimento obrigatório quando 
+houver itens orçamentários referentes a passagens na planilha orçamentária. 
+ATENÇÃO: Informar no campo OUTRAS INFORMAÇÕES os beneficiários das passagens (nome e/ou função no 
+projeto). 
+ 
+Atenção:  
+• 
+Se o local de realização for no Brasil, selecione a UF e a Cidade;  
+• 
+A mudança e município já cadastrado anula toda a planilha orçamentária. 
+• 
+Se o local de realização for no exterior, selecione o país; 
+• 
+Para eventos no exterior: 
+• É necessário cadastrar um local de realização aqui no Brasil, para poder lançar os itens na planilha 
+orçamentária, que serão as despesas que o proponente terá no exterior. 
+ Exemplo: Mesmo se o pagamento for ocorrer no Japão, o item deve ser lançado aqui no Brasil. Nesse 
+caso, escolher uma cidade sede no Brasil e todas os itens deverão ter uma justificativa, informando 
+em qual cidade do exterior as despesas serão realizadas. 
+Na  prestação de contas deve-se incluir a nota fiscal original, tradução da nota e comprovante da 
+transferência de câmbio.  
+ 
+3. Plano de Distribuição: 
+ 
+ 
+ 
+ 
+
+ 
+38 
+ 
+ 
+Clique em NOVO PRODUTO, aparecerá esta tela: 
+ 
+Insira todos os produtos que serão oferecidos no projeto. 
+ 
+ Exemplos:  
+1) Espetáculos de Artes Cências, quando for uma peça de teatro, uma apresentação de dança, 
+uma apresentação de circo, uma contação de história, uma apresentação de stand up, etc. 
+2) Apresentação Musical, quando for um show de música cantada, apresentação de orquestra, 
+apresentação de coral, etc. 
+ 
+Escolha um dos produtos como produto principal, aquele de maior relevância no projeto (maior custo) 
+Escolha a área e segmento do produto cadastrado, como por exemplo, Área: Música, Segmento: Canto Coral. 
+Importante verificar se existe coerência entre a área e segmento selecionados e o produto cadastrado. 
+ 
+Atenção: 
+ 
+a) O PLANO DE DISTRIBUIÇÃO deve refletir TODOS os produtos citados na proposta, exatamente os descritos no 
+campo RESUMO e OBJETIVOS ESPECÍFICOS. 
+ 
+b) Os produtos disponíveis dependem da Tipicidade e Tipologia cadastradas. 
+ 
+c) Informe a estimativa de público ou da quantidade produzida em todos os produtos culturais cadastrados, bem 
+como o valor dos ingressos ou exemplares (se houver previsão de venda). 
+ 
+Para detalhar um produto siga o seguinte caminho: Clicar em plano de distribuição > clicar em detalhar produto 
+(ícone verde com uma lupa) > clicar no nome da cidade desejada > clicar em novo detalhamento caso não tenha 
+cadastrado nenhum ou clicar em editar detalhamento (ícone azul com um lápis) caso já tenha cadastrado um 
+detalhamento. 
+ 
+
+ 
+39 
+ 
+ 
+ 
+ 
+ 
+Seguindo esse passo a passo você terá acesso a esta tela: 
+ 
+ 
+ 
+Caso o projeto não tenha previsão de venda de ingressos ou exemplares, marque SIM na pergunta “Distribuição 
+totalmente gratuita?”. Caso o projeto tenha previsão de venda de ingressos ou produtos, marque não. 
+ 
+Em ambos os casos, informe o número total de beneficiários que serão alcançados pelo projeto (número de pessoas 
+que terão acesso aquele produto ou número de exemplares produzidos). 
+ 
+ 
+
+ 
+40 
+ 
+Após definir o número de beneficiários, no caso de venda de ingressos ou exemplares, determine a porcentagem 
+de distribuição gratuita em caráter social ou educativo, a porcentagem de distribuição para patrocinador, a 
+porcentagem de distribuição em ações de divulgação, a porcentagem que será vendida a preço popular (50 reais) e 
+a porcentagem destinada à venda a critério do proponente, limitado ao preço médio de R$ 250,00. 
+ 
+ATENÇÃO: Leia o artigo 46 da IN 23/2025 que orienta o correto preenchimento do plano de distribuição. 
+ 
+Para cadastrar várias categorias, com valores diferentes, como por exemplo, Camarote, Arquibancada, Piso Superior 
+etc., clique em novo detalhamento e cadastre quantas categorias achar necessário. 
+ 
+ 
+ 
+Lembre-se: 
+ 
+a) Produto principal: determinado pela ação de custo mais elevado no orçamento e, no caso de festivais e planos 
+anuais (estrutura e manutenção), o produto secundário de maior valor será considerado o preponderante. 
+b) Produto secundário: demais resultados do projeto cultural, abrangendo eventos, atividades ou bens culturais 
+que dependem, derivam ou se vinculam ao produto principal do projeto. 
+c) O valor por pessoa beneficiada será de até R$ 300,00 (trezentos reais), computando-se para o custo apenas os 
+beneficiários do produto principal. 
+ 
+• 
+O limite de valor por pessoa beneficiada não se aplica aos projetos de: 
+ I - concertos sinfônicos; 
+II - construção de equipamentos culturais; 
+III - desfiles festivos; 
+IV - educativos em geral; 
+V - elaboração de projeto executivo e de arquitetura; 
+VI - manutenção de grupos e coletivos artístico-culturais e corpos artístico-culturais estáveis; 
+VII - museus e memória; 
+VIII - óperas; 
+IX - patrimônio cultural; 
+X - planos anuais e plurianuais; 
+XI - culturas tradicionais, populares e cultura afro-brasileira, incisos XLVIII e L do ANEXO I; 
+XII - desenvolvimento sustentável de territórios criativos; 
+XIII - premiações; 
+XIV - produção de obras audiovisuais; e 
+XV - restauração de obras de arte. 
+
+ 
+41 
+ 
+ 
+4. Orçamento do projeto: 
+ 
+ 
+ 
+Custos Vinculados 
+ 
+ 
+ 
+ 
+Determine a porcentagem do valor do projeto que será destinada para Custos de acessibilidade, comunicação e  
+divulgação acessíveis, Custos de Administração e para Remuneração de captação de recursos. 
+ 
+Art. 22. A remuneração para captação de recursos fica limitada a 10% (dez por cento) do valor 
+do projeto e ao teto de R$ 150.000,00 (cento e cinquenta mil reais). 
+ ... 
+Art. 23. A previsão dos custos de acessibilidade, de comunicação e divulgação acessíveis, não 
+poderá ultrapassar o limite de 20% (vinte por cento) do valor do projeto, pagos 
+proporcionalmente às parcelas já captadas, sendo admitidas como despesas: 
+I - contratação de consultor, assessoria e coordenador das medidas de acessibilidade, de 
+comunicação e de divulgação acessíveis. 
+II - os custos das medidas e dos profissionais de acessibilidade, de comunicação e de divulgação 
+acessíveis. 
+III - jornalista e assessoria de imprensa; 
+IV - valoração de mídia; 
+
+ 
+42 
+ 
+V - serviços gráficos; 
+VI - gestão de redes sociais; e 
+VII - outras despesas justificadas pelo proponente para implementação das medidas de 
+acessibilidade, de comunicação e de divulgação acessíveis. 
+... 
+Atenção: Os projetos deverão informar que possuem acessibilidade em seu material de 
+divulgação, os quais deverão ser acessíveis também 
+ 
+Art. 25. A previsão dos custos de administração não poderá ultrapassar o limite de 15% (quinze 
+por cento) do valor do projeto, somente poderão ser pagos proporcionalmente às parcelas já 
+captadas, sendo admitidas como despesas: 
+I - aquisição ou locação de bens e demais materiais de consumo necessários à realização das 
+atividades administrativas; 
+II - locação de imóveis onde ocorrerão as atividades administrativas, pagamento de encargos 
+sobre eles incidentes, tributos e despesas com condomínio; 
+III - pagamentos de tributos relativos às atividades administrativas, tais como impostos e taxas, 
+bem como de tarifas bancárias cujo adimplemento se faz necessário à realização de tais 
+atividades; 
+IV - contas de serviços essenciais às atividades administrativas, telefone, internet, água e luz; 
+V - custos relativos a serviços de postagem de correspondências, resguardada a sua pertinência 
+às atividades administrativas; 
+VI - remuneração do pessoal administrativo e pagamento dos encargos sociais, trabalhistas, 
+previdenciários relativos à sua contratação, possibilitado o custeio parcial ou integral de planos 
+de saúde aos empregados e seus dependentes; 
+VII - custo relativo ao transporte do pessoal administrativo e insumos necessários; 
+VIII - diárias de viagem, incluindo os custos com hospedagem, alimentação e transporte do 
+pessoal administrativo; 
+IX - contratação de serviços necessários à elaboração de propostas culturais mediante 
+estabelecimento de contrato prévio, cujo pagamento será realizado após a aprovação de 
+execução do projeto, conforme art. 28, parágrafo único da Lei nº 8.313, de 23 de dezembro de 
+1991; e 
+X - contratação de consultorias especializadas em gestão para a execução de projetos culturais, 
+bem como contratação de serviço de elaboração de prestação de contas. 
+Parágrafo único. É vedada a utilização acima de 50% (cinquenta por cento) do valor dos custos 
+de administração em uma mesma despesa. 
+ 
+ 
+Custos por produtos 
+ 
+ 
+
+ 
+43 
+ 
+ 
+Nesse momento você vai cadastrar todos os itens orçamentários necessários para a realização do seu projeto.  
+As despesas devem ser detalhadas por produto cadastrado no Plano de Distribuição. 
+ 
+Quando clicar em “Custos por produto”, aparecerá esta tela: 
+ 
+ 
+ 
+Selecione o produto para qual deseja incluir as despesas → Selecione a cidade → Clicar na etapa desejada: PRÉ-
+PRODUÇÃO/PREPARAÇÃO, 
+PRODUÇÃO/EXECUÇÃO, 
+PÓS-PRODUÇÃO, 
+ASSESSORIA 
+CONTÁBIL 
+E 
+JURÍDICA/RECOLHIMENTOS. 
+ 
+ 
+Após selecionar a etapa, Clique em "Novo Item", aparecerá esta tela: 
+ 
+ 
+
+ 
+44 
+ 
+No campo "Item" selecionar a rubrica que deseja incluir. 
+ 
+No campo “Unidade” escolha a unidade referente àquele item: 
+ 
+I. “Unidade” (deve ser compatível com o item orçamentário): 
+◦ “Serviço”: Utilizado apenas para atividades pontuais e não contínuas. Ex: Pintor, Eletricista, 
+Revisão de Texto, etc. 
+◦ “Mês”: Para contratação de profissionais que vão trabalhar de forma contínua durante a 
+execução do projeto e receberão remuneração mensal. Exemplo: Coordenadores, Diretores, 
+Produtores, professores etc. Deve-se inserir a média de valor mensal pago a esses profissionais. 
+◦ “Semana”: Em algumas situações, a depender do período, utilizar esta unidade para 
+profissionais que vão trabalhar de forma contínua durante a execução do projeto, quando o 
+projeto tiver duração menor que 1 mês. 
+◦ “Verba”: Reserva de recurso para atividade que o proponente não consegue ainda definir 
+quantidade ou valor específico. Exemplo: material de consumo, locação de equipamentos etc. 
+Não use esta categoria para serviços mensuráveis. 
+◦ “Unidade”: Utilizar “Unidade” para itens que são adquiridos, alugados, contratados por 
+UNIDADE, por exemplo: Hospedagem (inserir na quantidade quantos beneficiários serão 
+hospedados; na ocorrência, inserir o número de diárias e no valor unitário, o preço da diária da 
+hospedagem), locação de carro (inserir na quantidade quantos carros serão alugados, na 
+ocorrência inserir por quantos dias e informar o valor unitário da diária de locação). 
+◦ “Cachê”: Para pagamento de artistas ou grupos artísticos por apresentação. 
+ 
+No 
+campo 
+“Quantidade” 
+preencha 
+sempre 
+com 
+a 
+quantidade 
+exata 
+do 
+item 
+que 
+será 
+adquirida/contratada/utilizada. 
+ 
+No campo “Ocorrência” preencha com a quantidade exata de vezes que aquele item será 
+adquirido/contratado/utilizado. 
+ 
+Exemplos: 
+• Para cadastrar despesa com cachê de 02 bandas que irão tocar em um festival em 04 cidades 
+diferentes: 
+◦ Unidade: “Cachê” 
+◦ Quantidade = 2 
+◦ Ocorrência = 4 
+• Para cadastrar despesa com aluguel de 500 banheiros químicos para um show:  
+◦ Unidade: “Unidade” 
+◦ Quantidade = 500 
+◦ Ocorrência = 1 
+• Para cadastrar despesa com 01 intérprete de libras durante 36 apresentações: 
+◦ Unidade: “Serviço” 
+◦ Quantidade = 1 
+◦ Ocorrência = 36 
+• Para cadastrar despesa com um Produtor na fase de produção do projeto com duração de 180 
+dias. 
+◦ Unidade: “Mês” 
+◦ Quantidade = 1 
+◦ Ocorrência = 6 (meses) 
+ 
+ 
+ 
+ 
+
+ 
+45 
+ 
+No campo “valor unitário” preencha com o valor unitário daquele item. 
+ 
+Exemplos: valor de uma unidade que será adquirida, ou valor do cachê de uma apresentação do 
+artista, ou valor de um mês de pagamento daquele profissional, ou valor de um mês de aluguel. 
+ 
+No campo “Fonte de Recurso” escolha a fonte de recurso.  
+ 
+Exemplos: 
+Incentivo Fiscal Federal: Recursos de Incentivo Fiscal da Lei Rouanet. 
+Recursos privados de terceiros 
+Recursos privados próprios 
+Incentivo fiscal estadual 
+Incentivo fiscal municipal 
+ 
+No campo “Detalhamento / Justificativa / Observações (Opcional)”, justifique a inclusão daquele item. 
+ 
+O preenchimento desse campo é obrigatório para itens que ultrapassem a modal do sistema, 
+nesse caso o proponente deve explicar o motivo de ter solicitado um valor acima daquele 
+praticado no mercado. 
+ 
+Atenção: Embora o preenchimento desse campo não seja obrigatório para todos os itens, 
+sugerimos o seu preenchimento com esclarecimentos sobre o item solicitado, explicação sobre 
+a quantidade e ocorrência para facilitar a análise de custo e evitar diligências posteriores. 
+ 
+Após preencher todos os campos, salve.  
+ 
+Insira todos os itens necessários para aquela etapa. Faça isso em todas as etapas e em todos os produtos 
+cadastrados.  
+ 
+Pronto, após inserir todos os custos por produto, o orçamento do seu projeto estará concluído.  
+ 
+Visualizar planilha 
+ 
+ 
+ 
+Nesse menu, você verá sua planilha completa com todos os produtos e itens cadastrados, bem como os custos 
+vinculados, revise se está tudo certo. Os valores acima da modal ficarão destacados na cor laranja. 
+ 
+Para editar a planilha é necessário clicar no Menu Orçamento do projeto > Custos por produtos, clicar no produto, 
+clicar no município, clicar na etapa de trabalho e clicar no lápis azul. 
+
+ 
+46 
+ 
+ 
+5. Itens Orçamentários: 
+ 
+Solicitar inclusão de itens 
+ 
+ 
+ 
+ 
+ 
+Para verificar se existe o item ou semelhante que atenda à finalidade pretendida, acesse o menu lateral “Itens 
+Orçamentários” > “Solicitar inclusão de itens” (Tela acima). Nesta tela, selecione o produto > No campo “Item”, 
+digite o nome do item (ou semelhante, exemplo: Se o item desejado for “Alimentação”, tente também a palavra 
+“Refeição”) > Clique em “Pesquisar”. 
+ 
+Dentre os itens já existentes procure o que melhor se correlaciona, fazendo as devidas observações, conforme o 
+caso. 
+ 
+Obs.: Além disso, é possível verificar o cardápio de itens existentes em https://aplicacoes.cultura.gov.br/comparar  
+>> menu canto superior esquerdo (3 linhas horizontais) >> Projeto >> Itens orçamentários >> Menu de produtos 
+culturais >> Selecione o produto desejado >> Clique em "Pesquisa". 
+ 
+Caso não encontre o item ou semelhante que atenda à finalidade pretendida utilize esse campo para solicitar a 
+inclusão no sistema de itens orçamentários. Clique em NOVO, abrirá essa tela: 
+ 
+
+ 
+47 
+ 
+ 
+Você poderá solicitar a inclusão de um novo item ou associar um item que existe em outro produto ou etapa do 
+produto e etapa desejados, devendo justificar o pedido de inclusão ou de associação do item ao produto/etapa. 
+Selecione “Associar item a produto/etapa” ou “Incluir novo item”, preencha os campos e salve. 
+ 
+ATENÇÃO:  
+ 
+o Não é necessário inserir itens orçamentários referentes aos CUSTOS DE ACESSIBILIDADE, COMUNICAÇÃO E 
+DIVULGAÇÃO ACESSÍVEIS e aos CUSTOS ADMINISTRATIVOS, devendo o proponente definir apenas a 
+porcentagem dos recursos que serão destinados e essas despesas nos CUSTOS VINCULADOS e comprovar 
+os gastos na prestação de contas. 
+ 
+o Os itens orçamentários "Advogado" e “Contador” encontram-se na etapa Assessoria Contábil e Jurídica. 
+ 
+Minhas Solicitações (do menu itens orçamentários) 
+ 
+ 
+ 
+ 
+Obs.: Não confundir com “Minhas Solicitações” (ferramenta de comunicação com o Ministério) 
+Nesse campo você pode visualizar o status das Solicitações de inclusão de itens orçamentários. 
+ 
+ 
+ 
+ 
+
+ 
+48 
+ 
+6. Anexar Documentos: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nesse campo você deve anexar os documentos obrigatórios do proponente e da proposta, conforme Anexo II da IN 
+23/2025. Os documentos devem estar no formato PDF. 
+ 
+• 
+Documentos obrigatórios do proponente: 
+ 
+o Comprovante de inscrição e situação cadastral no CNPJ; 
+o Cópia atualizada do Estatuto Social, Contrato Social, Certificado de Microempreendedor Individual 
+ou Requerimento do empresário e respectivas alterações posteriores devidamente registradas no 
+órgão competente ou do ato legal de sua constituição; 
+o Cópia da ata de eleição da atual diretoria, do termo de posse de seus dirigentes, devidamente 
+registrado, ou do ato de nomeação de seus dirigentes; e 
+o Cópia de documento legal de identificação do proponente pesoa física ou do(s) dirigente(s) 
+responsável(eis) por administrar a instituição proponente que contenha: foto, assinatura, número 
+da Carteira de Identidade e do CPF. 
+ 
+• 
+Documentos obrigatórios da proposta: depende dos produtos cadastrados. 
+ 
+o Importante verificar o anexo II da IN 23/2025 para conhecer os documentos obrigatórios de acordo 
+com os produtos cadastrados no plano de distribuição da sua proposta. 
+ 
+ATENÇÃO: Os documentos, quando encaminhados em idioma estrangeiro, deverão ser acompanhados de tradução 
+
+ 
+49 
+ 
+contendo a assinatura, o número do CPF e do RG do tradutor, exceto nos casos de tradução juramentada; 
+ 
+7. Gerar PDF 
+ 
+ 
+Gera um documento em PDF com as informações da sua proposta para impressão. 
+ 
+ 
+8. Diligências 
+ 
+ 
+ 
+ATENÇÃO: A IN 23/2025 não prevê diligência na fase de proposta. Dessa forma, caso a proposta não atenda aos 
+requisitos da IN, será arquivada com a devida motivação. 
+O proponente poderá pedir desarquivamento uma única vez e, caso a proposta seja desarquivada, ficará registrada 
+nesse campo a mensagem de desarquivamento. 
+ 
+ 
+ 
+ 
+ 
+
+ 
+50 
+ 
+9. Minhas Solicitações 
+ 
+ 
+Ferramenta de comunicação com o Ministério, por meio da qual o proponente pode encaminhar dúvidas e 
+solicitações. 
+ 
+ 
+ 
+Clique em NOVA SOLICITAÇÃO, aparecerá esta tela: 
+ 
+ 
+ 
+
+ 
+51 
+ 
+ 
+Insira sua solicitação no campo texto, Salve e envie. 
+ 
+ATENÇÃO: O proponente só pode encaminhar uma solicitação por vez e o prazo para resposta é de 20 dias, podendo 
+ser prorrogado por mais 10 dias. 
+ 
+Art. 93. O atendimento ao proponente será realizado, preferencialmente, por meio do canal Solicitação no Sistema 
+de Apoio às Leis de Incentivo à Cultura, com prazo de resposta não superior a 20 (vinte) dias, podendo ser prorrogado 
+por mais 10 (dez) dias. 
+ 
+Parágrafo único. As informações sobre os projetos e os pedidos de ajustes diversos somente poderão ser 
+apresentados pelo proponente, o representante legal ou o procurador, sendo necessário, nesse último caso, a 
+apresentação da procuração que traga firma reconhecida no Sistemas de Apoio às Leis de Incentivo à Cultura. 
+ 
+10. Excluir Proposta 
+ 
+ 
+ 
+Clicando em “Excluir proposta”, a proposta será apagada definitivamente do sistema. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+52 
+ 
+11. Enviar proposta ao MinC 
+ 
+ 
+ 
+Clicando em “Enviar proposta ao MinC”, sua proposta será encaminhada para análise e, caso tenha pendências, 
+aparecerá uma lista das pendências para serem ajustadas. Você só conseguirá encaminhar a proposta quando 
+ajustar todas as pendências. 
+ 
+ATENÇÃO: 
+ 
+Portfólio: 
+ 
+Para encaminhar uma proposta, o proponente deve ter um portfólio já validado no MinC. Para cadastrar seu 
+portfólio, siga o passo a passo da página 11. 
+ 
+Limites da carteira por proponente: 
+ 
+o Pessoa física: até 2 projetos ativos, totalizando R$ 500 mil. 
+o Microempreendedor individual: até 4 projetos ativos, totalizando R$ 1,5 milhão. 
+o Empresas do Simples Nacional: até 8 projetos ativos, totalizando R$ 10 milhões. 
+o Demais pessoas jurídicas: até 16 projetos ativos, totalizando R$ 15 milhões. 
+ 
+Você pode conferir sua carteira de projetos ativos em: https://aplicacoes.cultura.gov.br/comparar/salicnet/, clicar 
+no canto superior esquerdo para abrir os menus, escolher Proponentes > E seus projetos culturais ativos. 
+ 
+Lista de CNAEs de acordo com a área e segmento: 
+ 
+Para tomar conhecimento da lista de CNAEs Culturais aceitos para cada área e segmento deverá acessar o site: 
+https://aplicacoes.cultura.gov.br/comparar/salicnet/, clicar no canto superior esquerdo para abrir os menus, 
+acesse a opção Domínio ➔ CNAE Cultural e realizar a consulta. 
+ 
+ 
+ 
+
+ 
+53 
+ 
+ANÁLISE E ENQUADRAMENTO 
+ 
+Após encaminhar sua proposta, acompanhe diariamente o Salic para do andamento da análise e enquadramento 
+da sua proposta. 
+ 
+A proposta deverá atender aos requisitos do Salic e às finalidades previstas no art. 1º e a, pelo menos, um dos 
+objetivos indicados no art. 3º da Lei nº 8.313, de 1991;  
+ 
+Além disso, a proposta deve estar clara quanto ao seu objetivo para que seja possível o correto enquadramento do 
+projeto na área e segmento do produto principal, o que resultará em art. 18 ou 26, da Lei 8.313, de 1991, quando 
+do cadastramento no Salic. 
+ 
+Produto principal: determinado pela ação de custo mais elevado no orçamento e, no caso de 
+festivais e planos anuais (estrutura e manutenção), o produto secundário de maior valor será 
+considerado o preponderante. 
+ 
+Caso a proposta não se enquadre nas finalidades e objetivos da Lei, contrarie alguma regulamentação relativa ao 
+uso do incentivo fiscal ou não preencha todas as informações que são requisitos da proposta cultural, considerando 
+as suas características, impossibilitando assim o correto enquadramento, a proposta será arquivada. 
+ 
+ 
+RECURSOS NA FASE DE PROPOSTA 
+ 
+Pedido de desarquivamento 
+ 
+Caso a sua proposta não passe pelo exame de admissibilidade e seja arquivada, o proponente poderá clonar a 
+proposta para reapresentá-la ou solicitar uma única vez o desarquivamento, clicando no menu Proposta > 
+Arquivadas.  
+ 
+ 
+ 
+Clicando no menu Propostas > Arquivadas aparecerá esta tela: 
+ 
+ 
+ 
+
+ 
+54 
+ 
+Para visualizar o motivo do arquivamento da proposta, clique no seguinte ícone: 
+. 
+Caso o proponente resolva clonar a proposta, clique no ícone  
+ e a proposta abrirá para edição e ajustes. 
+Ajuste os motivos que levaram ao arquivamento e reapresente a proposta ao MinC. 
+ 
+Caso o proponente não concorde com o motivo do arquivamento da proposta e decida solicitar o desarquivamento, 
+clique no ícone 
+ e abrirá o campo texto para que o proponente insira os argumentos e justificativas para o 
+desarquivamento da proposta. 
+ 
+ 
+ 
+O pedido deve ser motivado, ou seja, conter as justificativas necessárias para o desarquivamento. 
+ 
+O prazo para pedir desarquivamento é de 10 dias, a partir da data do arquivamento. Caso o proponente não solicite 
+desarquivamento no prazo estipulado, o ícone não ficará mais disponível. 
+ 
+Após pedir o desarquivamento da proposta, aguarde a análise do pedido pelo MinC. Caso sua proposta seja 
+desarquivada, ela aparecerá novamente na lista de propostas ativas. 
+ 
+Caso a proposta seja arquivada pela segunda vez, não haverá possibilidade de solicitar novamente o 
+desarquivamento, devendo o proponente clonar a proposta e realizar os ajustes necessários para reapresentá-la. 
+ 
+Recurso de enquadramento 
+ 
+ 
+ 
+ 
+
+ 
+55 
+ 
+Nos casos de enquadramento diverso do pedido do proponente, abre-se o prazo recursal de 10 (dez) dias dirigido 
+à autoridade que proferiu a decisão. 
+ 
+O proponente deve abrir sua proposta, clicar no menu superior RECURSO e apresentar os argumentos que 
+justifiquem a manutenção da área e segmento inicialmente propostos pelo proponente. 
+ 
+ATENÇÃO: O proponente deve argumentar o porquê entende que a proposta deve ser enquadrada na ÁREA e 
+SEGMENTO cadastrados pelo proponente inicialmente e não se ela deve ser enquadrada no artigo 18 ou 26. 
+ 
+O enquadramento no artigo 18 ou 26 é consequência da área e segmento do produto principal do projeto e no caso 
+de Festival, Bienal, Festa ou Feira ou de Plano anual, a área e segmento do produto secundário que determinará se 
+o projeto será enquadrado no artigo 18 ou 26. 
+ 
+Recursos que solicitem enquadramento em área e segmento diferentes do proposto inicialmente pelo proponente 
+ou que solicite apenas que a proposta seja enquadrada em determinado artigo sem apresentar argumentos quanto 
+à manutenção do enquadramento na ÁREA e SEGMENTO inicialmente propostos pelo proponente não serão 
+apreciados. 
+ 
+Acompanhe o resultado do pedido de desarquivamento e do recurso de enquadramento no Salic. 
+ 
+CONCLUSÃO DA FASE DE PROPOSTA 
+ 
+Após enquadramento final, a proposta será transformada em projeto, ganhará número de Pronac e será publicada 
+a autorização de captação no Diário Oficial da União – DOU. 
+ 
+Após a abertura de contas, o proponente deverá captar, no mínimo, 10% do valor do projeto para passar para a 
+próxima fase: adequação à realidade de execução, conforme artigo 52 da IN 23/2025. 
+ 
+Artigo 52. Após a captação mínima de 10% (dez por cento), o projeto será liberado para 
+adequação à realidade de execução, devendo ser submetido ao Ministério da Cultura pelo 
+proponente para análise do preenchimento formal dos campos do projeto, incluindo previsão 
+de medidas de acessibilidade, de comunicação e de divulgação acessíveis, de democratização 
+do acesso, de ampliação do acesso, de contrapartidas sociais e outros aspectos, considerando 
+as características da ação cultural, além das eventuais adequações promovidas, podendo ser 
+diligenciado para os devidos ajustes. 
+ 
+A necessidade de captação mínima de 10 % não se aplica a projetos: 
+ 
+I - de planos anuais e plurianuais de atividades; 
+II - aprovados em chamamento público e edital que tenha sido homologado pelo Ministério da 
+Cultura, conforme art. 38 desta Instrução Normativa; e 
+III - que possuam contrato de patrocínio e que atendam aos requisitos do inciso VII do ANEXO I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+56 
+ 
+ 
+ADEQUAÇÃO À REALIDADE DE EXECUÇÃO DO PROJETO 
+ 
+Orientações gerais sobre adequação à realidade de execução 
+ 
+ 
+1. Após a captação mínima de 10% (dez por cento) do valor do aprovado o proponente poderá adequar o 
+projeto à realidade de execução, conforme artigo 52 da IN 23/2025. 
+ 
+Artigo 52. Após a captação mínima de 10% (dez por cento), o projeto será liberado para 
+adequação à realidade de execução, devendo ser submetido ao Ministério da Cultura pelo 
+proponente para análise do preenchimento formal dos campos do projeto, incluindo previsão de 
+medidas de acessibilidade, de comunicação e de divulgação acessíveis, de democratização do 
+acesso, de ampliação do acesso, de contrapartidas sociais e outros aspectos, considerando as 
+características da ação cultural, além das eventuais adequações promovidas, podendo ser 
+diligenciado para os devidos ajustes. 
+ 
+2. Os projetos que se enquadram em uma das hipóteses do § 1ª do artigo 52 da IN 23/2025 passarão direto 
+para a fase de adequação, sem a necessidade de captação mínima de 10%. No entanto, o proponente tem 
+que ter marcado na sua proposta, em Informações Complementares, a opção correta no campo “Plano de 
+Execução Imediata”. 
+ 
+A necessidade de captação mínima de 10 % não se aplica a projetos: 
+ 
+I - de planos anuais e plurianuais de atividades; 
+II - aprovados em chamamento público e edital que tenha sido homologado pelo Ministério da 
+Cultura, conforme art. 38 desta Instrução Normativa; e 
+III - que possuam contrato de patrocínio e que atendam aos requisitos do inciso VII do ANEXO I 
+ 
+3. O proponente deve ajustar todos os campos do projeto de acordo com as orientações deste manual sobre 
+o correto preenchimento da proposta cutural e encaminhar o projeto para análise das adequações. 
+ 
+4. Não há prazo estipulado para adequar o projeto, no entanto, caso o prazo de execução expire sem que o 
+proponente encaminhe para análise, o projeto será arquivado, podendo o proponente, no prazo de 20 dias, 
+solicitar a transferência de recursos a outro projeto do mesmo proponente com prazo de captação vigente. 
+Caso não solicite a transferência, os recursos serão recolhidos ao Fundo Nacional da Cultura. Dessa forma, 
+atente-se para encaminhar o projeto para análise de adequação antes do fim do prazo de execução do 
+projeto. 
+ 
+5. Projeto de realização de obra ou de intervenção de conservação e restauro que tenha projeto concomitante 
+de Elaboração de Projeto Executivo só deverá ser submetido pelo proponente para análise de adequação 
+à realidade de execução após a conclusão dos projetos executivos. O encaminhamento de projeto de obra 
+sem o projeto executivo ensejará o seu indeferimento. 
+ 
+6. Após a fase de adequação (superadas as situações de E90 Projeto liberado para adequação à realidade de 
+execução e B20 Projeto adequado à realidade de execução), o proponente poderá solicitar a prorrogação 
+do prazo de execução do projeto ao apresentar novo cronograma por meio de encaminhamento de 
+“Solicitação” no Salic. 
+ 
+7. Na adequação à realidade de execução, não são passíveis de alteração: o nome do projeto, o objeto 
+(produto principal) e o enquadramento. 
+ 
+
+ 
+57 
+ 
+ 
+ 
+Obs: Para alteração do nome do projeto, o proponente deverá aguardar a aprovação da execução 
+e solicitar a mudança na fase de readequação (após a captação de 20%). 
+ 
+8. A descontinuidade da gratuidade do projeto não será permitida, ou seja, um projeto que foi aprovado com 
+distribuição totalmente gratuita deve permanecer totalmente gratuito. 
+ 
+9. Após o encaminhamento do projeto para análise, caso seja necessário, o projeto será diligenciado para 
+ajustes sua situação retornará para E90 Projeto liberado para o proponente adequar à realidade de 
+execução. O proponente deve se atentar para as diligências encaminhadas e atendê-las dentro do prazo de 
+20 (vinte) dias, sob pena de arquivamento do projeto. 
+ 
+ 
+ATENÇÃO:  
+ 
+• 
+A diligência encontra-se na opção "OUTRAS INFORMAÇÕES" do menu lateral da página do 
+projeto, na opção "DILIGÊNCIAS DO PROJETO".  
+ 
+• 
+Não existe um campo para resposta à diligência. Deve-se abrir o projeto e realizar as 
+alterações nos campos indicados na diligência. Por exemplo: Se na diligência encaminhada foram 
+solicitadas alterações no campo DEMOCRATIZAÇÃO DE ACESSO, deve-se abrir o projeto, no 
+menu lateral esquerdo clicar em Informações Iniciais → Responsabilidade Social, alterar o 
+campo DEMOCRATIZAÇÃO DE ACESSO e salvar. 
+ 
+• 
+Caso tenha algo a acrescentar que não se encaixe em outros campos texto de 
+preenchimento insira no campo OUTRAS INFORMAÇÕES, caso opte por anexar novos 
+documentos aponte sua ação também em OUTRAS INFORMAÇÕES  
+ 
+• 
+Após realizar todas as alterações solicitadas em diligência e salvar, o proponente deve 
+encaminhar novamente o projeto para análise; 
+ 
+• 
+O prazo de resposta de diligência é de 20 dias;  
+ 
+• 
+A comunicação oficial é sempre via Salic; 
+ 
+• 
+Não envie o projeto sem os ajustes apontados; 
+ 
+• 
+Em caso de dúvida sobre a diligência recebida encaminhe “Solicitações” no menu lateral 
+esquerdo >> “Minhas solicitações” com ícone de balão ou entre em contato com nosso 
+atendimento nos telefones: ((61) 2024-2082/ 2024-2147 / 2024-2163 / 2024-2126 / 2024-2359 
+/ 2024-2040 /2024-2042 / 2024-2124 / 2024-2249 / 2024-2106 e 2024-2077.  
+ 
+10. Inconsistências insanáveis ou a omissão na resposta às diligências na fase de adequação à realidade de 
+execução ensejarão o arquivamento do projeto. 
+ 
+11. O proponente poderá solicitar desarquivamento uma única vez, dentro do prazo de 10 dias, por meio da 
+ferramenta SOLICITAÇÕES no Salic. O pedido deve ser motivado, ou seja, conter as justificativas necessárias 
+para o desarquivamento. 
+ 
+12. Caso o proponente não solicite o desarquivamento dentro do prazo de 10 (dez) dias ou caso o pedido de 
+desarquivamento seja negado, poderá solicitar a transferência dos recursos para outro projeto ativo do 
+
+ 
+58 
+ 
+mesmo proponente com prazo de captação vigente. Caso o pedido de transferência entre projetos não 
+ocorra em um prazo de até 20 (vinte) dias, os recursos serão recolhidos ao Fundo Nacional da Cultura, 
+dispensada a anuência do proponente. 
+ 
+13. O prazo máximo para a conclusão do exame da adequação é de 30 (trinta) dias, podendo ser ampliado para 
+até 60 (sessenta) dias no caso de propostas que envolvam a elaboração de projetos executivos e execução 
+de intervenções de conservação e restauro de bens culturais imóveis, móveis e integrados tombados, 
+protegidos por outras formas de acautelamento ou de reconhecido valor cultural, bem como a construção, 
+reforma ou adequação de equipamentos culturais, conforme a característica do projeto e a complexidade 
+da obra. 
+ 
+ 
+Passo a passo para realizar a Adequação do seu projeto 
+ 
+1. Acesse o Sistema de Apoio às Leis de Incentivo à Cultura – Salic no seguinte endereço: 
+https://salic.cultura.gov.br . 
+ 
+2. No menu superior PROJETO, clique em LISTAR PROJETOS: 
+ 
+ 
+ 
+ 
+3. Selecione o Mecanismo MECENATO e o CPF ou CNPJ do proponente. 
+ 
+4. Abra o projeto que deseja adequar à realidade de execução clicando no nº do Pronac: 
+
+ 
+59 
+ 
+ 
+ 
+5. Na página inicial do projeto, clique em ADEQUAR À REALIDADE, no menu lateral esquerdo: 
+ 
+ 
+ 
+ 
+6. No menu lateral esquerdo, selecione o campo que deseja adequar para editar as informações: 
+ 
+ 
+
+ 
+60 
+ 
+ 
+7. Não se esqueça de SALVAR! 
+ 
+ 
+ 
+8. Em caso de exclusão de produto cultural secundário na Planilha Orçamentária, não se esqueça de retirar 
+este produto no Plano de Distribuição e do escopo do projeto nos campos texto de preenchimento. 
+ 
+9. Após realizar todas as adequações, devolva o projeto clicando em DEVOLVER PROJETO AO MINC, no menu 
+lateral esquerdo: 
+
+ 
+61 
+ 
+ 
+ 
+ 
+Acompanhe as notificações e verifique diariamente no SALIC se seu projeto foi diligenciado. A diligência 
+encontra-se na opção "OUTRAS INFORMAÇÕES" do menu lateral da página do projeto, na opção 
+"DILIGÊNCIAS DO PROJETO": 
+ 
+ 
+Atenção: Não existe um campo para resposta à diligência. Deve-se abrir o projeto e realizar as alterações nos 
+campos indicados na diligência. Por exemplo: Se na diligência encaminhada foram solicitadas alterações no campo 
+DEMOCRATIZAÇÃO DE ACESSO, deve-se abrir o projeto, no menu lateral esquerdo clicar em Informações Iniciais → 
+Responsabilidade Social, alterar o campo DEMOCRATIZAÇÃO DE ACESSO e salvar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+62 
+ 
+ANÁLISE TÉCNICA (PARECERISTA E CNIC) 
+ 
+1. 
+Após conclusão da análise de adequação, o projeto será encaminhado para emissão do parecer 
+técnico. A unidade técnica deverá analisar o projeto no prazo de 30 (trinta) dias, podendo ser prorrogado 
+por até 90 (noventa) dias quando: 
+ 
+I - se tratar de elaboração de projetos executivos, execução de intervenções de 
+conservação, restauro de bens culturais imóveis, móveis e integrados tombados, 
+protegidos por outras formas de acautelamento ou de reconhecido valor cultural e 
+construção, reforma ou adequação de equipamentos culturais, conforme a característica 
+do projeto e a complexidade da obra; 
+ 
+II - houver diligência durante a análise; ou  
+ 
+III - ocorrer impedimento do parecerista 
+ 
+ 
+2. 
+Após emissão do parecer técnico, o projeto cultural será encaminhado à Comissão Nacional de 
+Incentivo à Cultura (CNIC) para apreciação, com vistas à aprovação da execução. 
+ 
+3. 
+O projeto poderá ser diligenciado durante a análise técnica e da CNIC com prazo para resposta de 
+20 (vinte)  dias. A resposta deverá ser enviada em campo específico do projeto (menu lateral esquerdo → 
+Diligências do Projeto): 
+ 
+ 
+4. Atente-se para o prazo para resposta á diligência, visto que o projeto poderá ser indeferido em razão da 
+omissão do proponente em atender as diligências.  
+ 
+5. O proponente poderá consultar os pareceres pelo menu lateral esquerdo OUTRAS INFORMAÇÕES e 
+clicando em DOCUMENTOS ASSINADOS ou no menu lateral esquerdo em "Análise e Aprovação: 
+ 
+
+ 
+63 
+ 
+ 
+ 
+ 
+Após análise técnica e Apreciação da CNIC 
+ 
+VERIFICAÇÃO DOCUMENTAL 
+ 
+Após o registro do Parecer de Apreciação da CNIC no Salic é checada a validade da documentação constitutiva 
+do proponente tais como atas de posse, identidades, contratos, requerimento, entre outros. Mantenha em dia 
+os cadastros dos dirigentes no Salic, verifique o mandato dos procuradores, atualize as certidões constitutivas 
+da proponência incluindo documentações com vencimento como atas, portarias, registros  entre outros. 
+ 
+Além disso, será verificado se o proponente possui prazo de execução vigente. 
+ 
+ATENÇÃO:  
+ 
+Nesse momento o proponente pode ser diligenciado para encaminhar documentação atualizada e, caso não 
+atenda à diligência, o projeto será arquivado, conforme Artigo 95, §3º, inciso II da IN 23/2025. 
+ 
+ 
+Prorrogação de prazo de execução antes da homologação da execução: 
+ 
+A prorrogação do prazo para captação de recursos só ocorre para projetos com prazo de execução vigente. Para 
+solicitar prorrogação do prazo de execução antes da homologação da execução, o proponente deverá utilizar a 
+ferramenta “Solicitação” do Salic. 
+ 
+Essa solicitação só pode ser feita por projetos que já superaram a fase de adequação (E90 Projeto liberado para 
+adequação à realidade de execução e B20 Projeto adequado à realidade de execução). 
+ 
+FASE RECURSAL  
+ 
+1. Após o registro do Parecer de Aprovação da Execução no Salic, no caso de indeferimento por motivo de 
+legalidade e de mérito ou no caso de corte orçamentário, o proponente poderá apresentar recurso uma única 
+vez, no prazo de 10 (dez) dias, dirigido à autoridade que proferiu a decisão.  
+ 
+2. A situação correspondente a duração da fase recursal é: D51 - Aguardando superação/desistência do prazo 
+recursal, com duração automática de até 10 (dez) dias. 
+ 
+3. A interposição de recurso ou a desistência do prazo recursal deverá ser feita pelo menu lateral esquerdo 
+
+ 
+64 
+ 
+RECURSO no prazo de 10 (dez) dias corridos. 
+ 
+4. Selecione Recurso. 
+ 
+5. Em seguida surgirão duas opções: uma referente ao encaminhamento de recurso e outra referente ao não 
+encaminhamento de recurso: 
+ 
+ 
+ 
+ 
+6. Ao escolher encaminhar recurso, clique na opção correspondente e um campo-texto se apresentará para a 
+redação do pedido. O texto deve ser escrito diretamente no campo de preenchimento, não copie e cole 
+em outros editores de texto: 
+ 
+ 
+ATENÇÃO: 
+ 
+O recurso NÃO deve ser utilizado para: 
+ 
+o Encaminhar resposta à diligência de forma intempestiva. Respostas à diligência 
+encaminhadas de forma extemporânea por meio da ferramenta de Recurso não 
+
+ 
+65 
+ 
+serão apreciadas, exceto quando se tratar de caso fortuito ou de força maior, 
+devidamente comprovado pelo proponente. 
+ 
+o solicitar complementação orçamentária  
+ 
+o desistir do prazo recursal  (verifique o item 8, abaixo) 
+ 
+o Encaminhar dúvidas (utilize a ferramenta “Minhas Solicitações”) 
+ 
+7. Não se esqueça de salvar/enviar. 
+ 
+8. Caso a opção seja pela desistência do recurso, clique na opção correspondente, marque o quadro “De 
+acordo”, assim ficará extinto o prazo recursal de 10 (dez) dias e o projeto retornará ao MinC para o 
+prosseguimento dos trâmites. Nesse caso, também, não se esqueça de enviar: 
+ 
+ 
+ 
+ 
+• 
+Observação: Os itens glosados ou reduzidos não poderão ser reintegrados ou 
+complementados em caso de desídia ou desistência da etapa recursal. 
+ 
+9. Havendo a decisão final de não aprovação do projeto,  será facultada a transferência dos recursos captados 
+para projeto aprovado do mesmo proponente, com prazo de captação vigente, desde que apresentadas as 
+anuências dos incentivadores pessoas jurídicas, o que implicará no arquivamento definitivo do projeto 
+transferidor. 
+ 
+10. Caso o proponente não se manifeste solicitando a transferência de recurso em um prazo de até 20 (vinte) 
+dias, ou caso o pedido de transferência de recurso não seja aprovado pelo MinC, os recursos serão 
+recolhidos ao Fundo Nacional de Cultura (FNC), dispensada a anuência do proponente.   
+ 
+ 
+CONCLUSÃO DA FASE DE HOMOLOGAÇÃO DE EXECUÇÃO 
+ 
+ 
+Superadas a fase de verificação documental e a fase recursal (se for o caso), o projeto é encaminhado para a 
+Aprovação da Execução. A situação correspondente é: D52 - Projeto encaminhado para homologação. 
+ 
+Obs: caso haja alteração de valor em relação à Portaria de Autorização de Captação de Recursos, haverá 
+nova publicação de Portaria no DOU nas situações: 
+ 
+• 
+D28 - Encaminhado para inclusão em portaria de complementação seguido pela situação    
+
+ 
+66 
+ 
+D16 
+Aguarda publicação de portaria de Complementação em caso de Complementação;  
+ 
+• 
+D29 Encaminhado para inclusão em portaria de redução seguido pela situação  D23 
+Portaria de redução encaminhada à Imprensa Nacional para publicação no Diário Oficial da 
+União. 
+ 
+Obs: caso haja prorrogação de captação pois há ainda período de execução vigente haverá nova 
+publicação de Portaria no DOU nas situações: 
+ 
+• 
+D22 - Aguarda elaboração de portaria de Prorrogação seguido pela situação  D17 Portaria 
+de prorrogação encaminhada à Imprensa Nacional para publicação no Diário Oficial da 
+União. 
+ 
+  
+O próximo passo é o início da Execução e eventual movimentação financeira. A situação pode ser 
+então: E10 ou E12, o que corresponde, respectivamente, a projetos não captados ou com alguma captação. 
+ 
+O proponente só poderá movimentar recursos e solicitar readequação do projeto após a captação de 20% do 
+total aprovado. 
+ 
+Caso o projeto não entre em execução até o final do período de execução, o projeto será arquivado, podendo 
+o proponente, no prazo de 20 dias após o arquivamento, solicitar a transferência de recursos a outro projeto 
+do mesmo proponente com prazo de captação vigente. A transferência dos recursos captados poderá ser 
+solicitada desde que apresentadas as anuências dos incentivadores pessoas jurídicas. Caso não solicite a 
+transferência, os recursos serão recolhidos ao Fundo Nacional da Cultura. Dessa forma, atente-se para 
+encaminhar o projeto para análise de adequação antes do fim do prazo de execução do projeto. 
+ 
